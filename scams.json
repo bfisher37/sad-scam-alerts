@@ -1,0 +1,455 @@
+{
+  "updated": "2026-06-23",
+  "scams": [
+    {
+      "id": "irs-payment-demand",
+      "name": "IRS Phone Payment Demand",
+      "category": "IRS",
+      "summary": "Callers claim to be IRS agents and demand immediate payment for back taxes, threatening arrest or license suspension if you don't pay right now.",
+      "red_flags": [
+        "The IRS always contacts you by mail first — never by phone demanding immediate payment",
+        "Caller threatens arrest, deportation, or license revocation",
+        "Payment demanded in gift cards, wire transfer, or cryptocurrency",
+        "Caller refuses to let you hang up and call back"
+      ],
+      "what_to_do": "Hang up immediately. If you owe taxes, you will receive written notice first. Report IRS impersonation to the Treasury Inspector General at 1-800-366-4484 or reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "medicare-card-replacement",
+      "name": "Medicare Card Replacement Scam",
+      "category": "Medicare",
+      "summary": "Callers claim Medicare is issuing new cards and ask for your Medicare number, Social Security number, or a processing fee to send you the new card.",
+      "red_flags": [
+        "Medicare never calls unsolicited asking for your number",
+        "There is no fee to receive a Medicare card",
+        "Caller creates urgency or threatens benefit cancellation",
+        "Caller asks you to confirm your current Medicare number"
+      ],
+      "what_to_do": "Hang up. Report to 1-800-MEDICARE (1-800-633-4227) or the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "grandparent-scam",
+      "name": "Grandparent Emergency Scam",
+      "category": "Grandparent",
+      "summary": "A caller pretends to be a grandchild in trouble — arrested, hospitalized, or stranded — and asks for immediate cash or gift cards, often with a fake lawyer or police officer joining the call.",
+      "red_flags": [
+        "Urgent request to wire money or buy gift cards — today only",
+        "Grandchild voice sounds off — caller may say they were in an accident to explain it",
+        "Someone else gets on the line claiming to be a lawyer or police officer",
+        "Caller begs you not to tell other family members"
+      ],
+      "what_to_do": "Hang up and call your grandchild directly using a number you already have. Never send gift cards or wire money before verifying with family.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "social-security-suspension",
+      "name": "Social Security Number Suspension Scam",
+      "category": "Social Security",
+      "summary": "Callers claim your Social Security number has been suspended due to criminal activity and that you must verify your information or pay a fine to restore it.",
+      "red_flags": [
+        "Social Security numbers cannot be suspended — this is not how Social Security works",
+        "Caller may know some of your personal information to seem legitimate",
+        "Threatens arrest, deportation, or loss of benefits",
+        "Demands payment by wire, gift card, or cryptocurrency"
+      ],
+      "what_to_do": "Hang up. Report to the Social Security Administration Office of the Inspector General at 1-800-269-0271 or oig.ssa.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "tech-support-cold-call",
+      "name": "Tech Support Cold Call Scam",
+      "category": "Tech Support",
+      "summary": "Callers claim to be from Microsoft, Apple, or your internet provider and say they detected a virus or problem on your computer that requires remote access to fix.",
+      "red_flags": [
+        "Legitimate tech companies do not call you unsolicited about computer problems",
+        "Caller asks for remote access to your computer",
+        "A pop-up window on your screen displays a support number to call",
+        "Demands payment via gift card or wire transfer for repair services"
+      ],
+      "what_to_do": "Hang up or close the browser. Never allow remote access from an unsolicited caller. If you are concerned about your device, contact your provider using the number on their official website.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "prize-upfront-fee",
+      "name": "Prize and Lottery Upfront Fee Scam",
+      "category": "Lottery",
+      "summary": "You are told you have won a prize, lottery, or sweepstakes, but must pay taxes, insurance, or processing fees upfront before your winnings can be released.",
+      "red_flags": [
+        "You cannot win a contest you never entered",
+        "Any fee required to claim a prize is a guaranteed sign of a scam",
+        "Payment requested by wire transfer, gift card, or money order",
+        "Caller creates excitement and urgency to stop you from thinking it through"
+      ],
+      "what_to_do": "Do not pay anything. Hang up or delete the message. Report to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "government-impersonation",
+      "name": "Government Agency Impersonation",
+      "category": "Government",
+      "summary": "Callers impersonate officials from the IRS, Medicare, Social Security, or other agencies to extract personal information or payment, often knowing your name and partial details.",
+      "red_flags": [
+        "Real government agencies contact you by mail first, not by unsolicited phone call",
+        "Caller claims you owe money or are under investigation",
+        "Demands immediate action to avoid arrest or benefit loss",
+        "Caller ID may show a real government number — this can be faked"
+      ],
+      "what_to_do": "Hang up. Find the real agency's number at usa.gov and call them directly to verify any claim.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "bank-account-verification",
+      "name": "Bank Account Verification Scam",
+      "category": "Other",
+      "summary": "Callers claim to be from your bank and ask you to confirm your account number, routing number, or PIN to prevent or reverse fraudulent activity.",
+      "red_flags": [
+        "Your real bank already has your account number — they will never ask you to read it back",
+        "Caller may provide the last four digits of your card to seem legitimate",
+        "Creates urgency: your account will be closed if you do not verify now",
+        "Transfers you to another officer who continues the pressure"
+      ],
+      "what_to_do": "Hang up. Call your bank directly using the number on the back of your card or your statement — not any number the caller provides.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "romance-scam",
+      "name": "Online Romance Scam",
+      "category": "Romance",
+      "summary": "Scammers build a fake romantic relationship online over weeks or months, then ask for money citing emergencies, business opportunities, or travel costs.",
+      "red_flags": [
+        "Person you met online always has an excuse to avoid video calls or meeting in person",
+        "Relationship moves very quickly and they express strong feelings early",
+        "Claims to be a doctor, military officer, or professional working overseas",
+        "First money request comes after significant emotional investment"
+      ],
+      "what_to_do": "Stop contact and do not send any money. Talk to a trusted family member. Report to the FTC at reportfraud.ftc.gov and your local FBI field office.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "gift-card-payment",
+      "name": "Gift Card Payment Demand",
+      "category": "Other",
+      "summary": "Any caller demanding payment in gift cards — whether posing as the IRS, a utility company, a family member in trouble, or tech support — is running a scam. No legitimate business or government agency accepts gift cards as payment.",
+      "red_flags": [
+        "Any request for payment via gift card is a scam — no exceptions",
+        "Caller may stay on the phone while you go to the store to buy cards",
+        "Asks you to read the numbers on the back of the card over the phone",
+        "Creates urgency to prevent you from telling store staff what it is for"
+      ],
+      "what_to_do": "Hang up immediately. If you have already bought gift cards, call the issuer on the back of the card right away — some losses can be recovered quickly. Report to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "robocall-offers",
+      "name": "Robocall Offers Scam",
+      "category": "Other",
+      "summary": "Automated calls offer free vacations, lower credit card interest rates, debt relief, or medical devices. These are almost always scams collecting payment information or personal data.",
+      "red_flags": [
+        "Unsolicited automated calls offering deals that seem too good",
+        "Press 1 to claim your prize or speak to a representative",
+        "Asks for credit card or personal information to verify your identity",
+        "Offer is available today only or for a limited time"
+      ],
+      "what_to_do": "Hang up — do not press any buttons. Register your number at donotcall.gov. Report specific robocall numbers to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "utility-shutoff",
+      "name": "Utility Shutoff Threat Scam",
+      "category": "Other",
+      "summary": "Callers claim to be from your electric, gas, or water company and threaten immediate service shutoff unless you pay a past-due balance right now — often by gift card or wire transfer.",
+      "red_flags": [
+        "Utility companies give written advance notice before any shutoff — not a same-day phone call",
+        "Caller demands payment by gift card, prepaid debit card, or wire transfer",
+        "Refuses to give you time to call the utility company to verify",
+        "Claims a technician is already on the way to disconnect service"
+      ],
+      "what_to_do": "Hang up and call your utility company directly using the number on your bill. Never pay by gift card. If you are behind on bills, your utility has programs to help — ask for them.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "ssn-phishing",
+      "name": "Social Security Number Phishing",
+      "category": "Social Security",
+      "summary": "Websites, pop-ups, or emails prompt you to enter your Social Security number to verify your account, claim a benefit, or resolve an issue — then use it for identity theft.",
+      "red_flags": [
+        "You arrived at the site by clicking a link, not by typing the address yourself",
+        "Site looks official but the web address does not end in .gov",
+        "Urgency language: act now or your benefits are at risk",
+        "Asks for Social Security number, date of birth, and bank information together"
+      ],
+      "what_to_do": "Close the browser tab immediately. Go directly to ssa.gov or medicare.gov by typing the address yourself. Report suspicious sites to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "caller-id-spoofing",
+      "name": "Caller ID Spoofing",
+      "category": "Other",
+      "summary": "Scammers can make any phone number appear on your caller ID — including numbers from the IRS, Social Security Administration, Medicare, your bank, or even your local police department.",
+      "red_flags": [
+        "A government agency number on your caller ID does not mean the caller is really from that agency",
+        "Caller quickly pivots to asking for money or personal information",
+        "If you call the number back and reach the real agency, that confirms the original caller was fake",
+        "Caller may know your name or partial information to seem more credible"
+      ],
+      "what_to_do": "Treat any unsolicited call suspiciously regardless of caller ID. Hang up and call the organization directly using the number from their official website.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "high-pressure-tactics",
+      "name": "High-Pressure Sales and Scam Tactics",
+      "category": "Other",
+      "summary": "Scammers use artificial urgency and pressure to prevent you from thinking clearly, consulting family, or doing research before handing over money or personal information.",
+      "red_flags": [
+        "Offer is today only or expires in the next hour",
+        "Caller discourages you from talking to family or waiting",
+        "Threatens a penalty, loss, or missed opportunity if you do not decide now",
+        "Feeling pressured, rushed, or flustered is itself a warning sign"
+      ],
+      "what_to_do": "Any legitimate offer will still be there tomorrow. Hang up, step away, and consult a family member or trusted friend before making any payment or decision.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "remote-access-scam",
+      "name": "Remote Computer Access Scam",
+      "category": "Tech Support",
+      "summary": "A caller or pop-up convinces you to install software giving them remote access to your computer. Once in, they steal passwords and financial accounts — then often charge you for the repair.",
+      "red_flags": [
+        "No legitimate tech company will ask to remotely access your device without a prior arrangement",
+        "Pop-up warning with a phone number to call is a common starting point",
+        "Caller asks you to download an app like AnyDesk, TeamViewer, or similar",
+        "Once connected, they claim to find viruses and demand payment"
+      ],
+      "what_to_do": "Hang up and close the browser. Do not install any software. If they were already connected, shut down your computer and call a trusted local tech professional to check for damage.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "foreign-inheritance",
+      "name": "Foreign Inheritance or Windfall Scam",
+      "category": "Other",
+      "summary": "An email or letter claims you are the beneficiary of a foreign inheritance, unclaimed funds, or a business deal — but you must pay legal fees or taxes upfront to receive the money.",
+      "red_flags": [
+        "Real strangers overseas do not leave inheritances to people they do not know",
+        "Small upfront fees keep increasing as new requirements emerge",
+        "Correspondence contains grammar errors and unusual email addresses",
+        "Caller or sender asks you to keep it confidential"
+      ],
+      "what_to_do": "Delete the message. There is no inheritance. Do not send any money or personal information. Report to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "medicare-coverage-threat",
+      "name": "Medicare Coverage Loss Threat",
+      "category": "Medicare",
+      "summary": "Callers claim your Medicare coverage will be cancelled unless you verify your information or pay a fee immediately — a scare tactic used heavily every open enrollment season.",
+      "red_flags": [
+        "Medicare coverage cannot be cancelled by a phone call",
+        "Caller often knows your name and may mention your Medicare plan by name",
+        "Creates extreme urgency around an enrollment deadline",
+        "Asks for your Medicare number, Social Security number, or bank details"
+      ],
+      "what_to_do": "Hang up. Call 1-800-MEDICARE (1-800-633-4227) directly to verify your coverage status. Your coverage is not at risk from this call.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "medicare-billing-fraud",
+      "name": "Medicare Billing Fraud",
+      "category": "Medicare",
+      "summary": "Healthcare providers or individuals bill Medicare for services or equipment you never received, sometimes using your Medicare number obtained through a scam or data breach.",
+      "red_flags": [
+        "Charges on your Medicare Summary Notice for services you do not recognize",
+        "Bills for equipment like wheelchairs or oxygen machines you never ordered",
+        "Provider name or dates of service that do not match your records",
+        "Someone offers free medical items in exchange for your Medicare number"
+      ],
+      "what_to_do": "Review your Medicare Summary Notice every time one arrives. Report suspicious charges to 1-800-MEDICARE or the HHS fraud hotline at 1-800-HHS-TIPS.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "scam-recovery-warning",
+      "name": "Recovery Scam — Getting Scammed Twice",
+      "category": "Other",
+      "summary": "After someone has been scammed, another scammer may contact them claiming they can recover the lost money for a fee — this is a second scam targeting the same victim.",
+      "red_flags": [
+        "No legitimate service charges a fee to recover scam losses",
+        "Recovery scammers often target people already known to have lost money to fraud",
+        "Promises of guaranteed recovery with names like government recovery units",
+        "Asks for payment upfront before any recovery attempt is made"
+      ],
+      "what_to_do": "Call your bank immediately if you sent money recently. Report to the FTC at reportfraud.ftc.gov and the Elder Fraud Hotline at 1-833-FRAUD-11. No fee-based recovery service is legitimate.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "contractor-cash-upfront",
+      "name": "Door-to-Door Contractor Scam",
+      "category": "Other",
+      "summary": "Unsolicited contractors offer low-cost home repairs — roofing, driveway sealing, tree trimming — demand cash upfront, then do shoddy work or disappear entirely.",
+      "red_flags": [
+        "Unsolicited visit, often after a storm or claiming to be in the neighborhood",
+        "Demands full or large cash payment before work begins",
+        "No written contract, business license, or verifiable local address",
+        "Urgency: we have leftover materials today only so we can do it cheap"
+      ],
+      "what_to_do": "Never pay cash upfront to an unsolicited contractor. Get written estimates from licensed local contractors. Verify licenses through your state contractor licensing board.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "fake-organization-impersonation",
+      "name": "Fake AARP and Veterans Organization Calls",
+      "category": "Government",
+      "summary": "Callers pretend to represent AARP, Medicare Advantage plans, the VA, or veterans organizations to extract personal information or sell fraudulent insurance products.",
+      "red_flags": [
+        "AARP, the VA, and similar organizations do not call unsolicited asking for payment or account information",
+        "Caller offers a benefit you did not request and asks for your Medicare or insurance number",
+        "May use authentic-sounding plan names and reference your general location",
+        "Rushes you to enroll today before a deadline"
+      ],
+      "what_to_do": "Hang up. Contact the real organization directly using the number on your membership card or their official website. Report to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "package-delivery-text",
+      "name": "Fake Package Delivery Text",
+      "category": "Other",
+      "summary": "A text claims a package could not be delivered and asks you to click a link to reschedule — the link leads to a fake site that steals your personal and payment information.",
+      "red_flags": [
+        "Text arrives for a package you are not expecting",
+        "Link in the text goes to a suspicious domain, not ups.com, fedex.com, or usps.com",
+        "Site asks for personal information, credit card, or a small redelivery fee",
+        "Urgency: your package will be returned if you do not act within 24 hours"
+      ],
+      "what_to_do": "Do not click the link. If you are expecting a package, go directly to the shipper's website by typing the address yourself and use your tracking number.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "debt-collector-arrest-threat",
+      "name": "Fake Debt Collector Arrest Threat",
+      "category": "Other",
+      "summary": "Callers claim to be debt collectors or law enforcement and threaten arrest, lawsuits, or wage garnishment unless you pay an alleged debt immediately.",
+      "red_flags": [
+        "You cannot be arrested for unpaid debt — debt collection is a civil matter, not criminal",
+        "Legitimate debt collectors must provide written notice and cannot threaten criminal action",
+        "Caller refuses to provide the collector's name, address, or original creditor",
+        "Demands immediate payment by wire transfer or gift card"
+      ],
+      "what_to_do": "Hang up. Request written verification by mail. Report abusive collectors to the CFPB at consumerfinance.gov/complaint or call 1-855-411-2372.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "found-item-info-theft",
+      "name": "Found Wallet Identity Theft Setup",
+      "category": "Other",
+      "summary": "A caller claims to have found your wallet, purse, or ID and asks you to confirm personal details — including your address or Social Security number — to arrange its return. The wallet is not actually found.",
+      "red_flags": [
+        "A real person who finds your wallet does not need your Social Security number to return it",
+        "Caller may know your name from the ID but asks for information they should not need",
+        "You did not actually lose your wallet — the claim is fabricated",
+        "Caller offers to drop it off and asks for your address and daily schedule"
+      ],
+      "what_to_do": "Do not confirm any personal information. Ask them to drop the item at your local police department. If you are concerned your ID was actually lost, contact your bank and check your credit.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "medicare-covid-number-theft",
+      "name": "COVID and Medicare Number Theft",
+      "category": "Medicare",
+      "summary": "Callers offer free COVID tests, vaccines, or medical equipment and ask for your Medicare number to send it at no charge — then use the number for billing fraud.",
+      "red_flags": [
+        "Unsolicited offers for free COVID-related products requiring your Medicare number",
+        "Caller may also ask for date of birth or Social Security number",
+        "Offer may reference current news events to seem legitimate",
+        "Your Medicare number is as valuable to thieves as a credit card number"
+      ],
+      "what_to_do": "Never give your Medicare number to someone who contacted you first. Report to 1-800-MEDICARE or the HHS fraud hotline at 1-800-HHS-TIPS.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "lottery-sweepstakes",
+      "name": "Lottery and Sweepstakes Scam",
+      "category": "Lottery",
+      "summary": "You receive a letter, call, or email congratulating you on winning a sweepstakes — but must pay taxes, insurance, or fees before the winnings are released. Sometimes a fake check is included.",
+      "red_flags": [
+        "You cannot win a lottery or sweepstakes you did not enter",
+        "Any fee required before you receive winnings is a scam",
+        "Check may look real but will bounce after you send the fees",
+        "Amount increases as new requirements are introduced"
+      ],
+      "what_to_do": "Throw away the letter or delete the message. Do not deposit any check or send any money. Report to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "disaster-charity-scam",
+      "name": "Disaster and Charity Scam",
+      "category": "Other",
+      "summary": "After natural disasters or national tragedies, fake charities appear soliciting donations by phone or email — the money goes directly to scammers, not victims.",
+      "red_flags": [
+        "Unsolicited call or email asking for donations immediately after a news event",
+        "Charity name sounds similar to well-known organizations but is slightly different",
+        "Requests payment by wire transfer, gift card, or cash rather than check or credit card",
+        "Caller cannot provide a tax ID number or physical address for the organization"
+      ],
+      "what_to_do": "Donate only to organizations you know. Verify charities at give.org or charitynavigator.org before donating. Never respond to unsolicited donation requests.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "home-warranty-robocall",
+      "name": "Home Warranty Robocall Scam",
+      "category": "Other",
+      "summary": "Automated calls claim your home warranty is expiring and urge you to press a number to renew — leading to fake extended warranty plans or outright theft of your payment information.",
+      "red_flags": [
+        "Your real home warranty company contacts you by mail, not by unsolicited robocall",
+        "Caller may know your name and address to seem legitimate",
+        "Pressing 1 connects you to someone pushing for immediate payment",
+        "Low-cost deal available today only to pressure a quick decision"
+      ],
+      "what_to_do": "Hang up — do not press any buttons. Check your actual warranty paperwork and contact that company directly if you have concerns. Report robocalls at donotcall.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "verify-call-yourself",
+      "name": "How to Verify Any Suspicious Call",
+      "category": "Other",
+      "summary": "When any caller claims to represent a government agency, business, or organization and asks for money or information, hang up and call that organization back directly using a number you find yourself.",
+      "red_flags": [
+        "Any caller who pressures you not to hang up and call them back separately",
+        "Caller who says the number on your card or official website will not work",
+        "Insistence that this must be handled on this call right now",
+        "Any caller who warns you not to tell anyone else about the conversation"
+      ],
+      "what_to_do": "Hang up. Find the real organization's phone number from your card, statement, or official .gov website. Call that number and ask if there is actually an issue with your account.",
+      "source_date": "2026-06",
+      "active": true
+    }
+  ]
+}
