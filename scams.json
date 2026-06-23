@@ -7,7 +7,7 @@
       "category": "IRS",
       "summary": "Callers claim to be IRS agents and demand immediate payment for back taxes, threatening arrest or license suspension if you don't pay right now.",
       "red_flags": [
-        "The IRS always contacts you by mail first — never by phone demanding immediate payment",
+        "The IRS always contacts you by mail first \u2014 never by phone demanding immediate payment",
         "Caller threatens arrest, deportation, or license revocation",
         "Payment demanded in gift cards, wire transfer, or cryptocurrency",
         "Caller refuses to let you hang up and call back"
@@ -35,10 +35,10 @@
       "id": "grandparent-scam",
       "name": "Grandparent Emergency Scam",
       "category": "Grandparent",
-      "summary": "A caller pretends to be a grandchild in trouble — arrested, hospitalized, or stranded — and asks for immediate cash or gift cards, often with a fake lawyer or police officer joining the call.",
+      "summary": "A caller pretends to be a grandchild in trouble \u2014 arrested, hospitalized, or stranded \u2014 and asks for immediate cash or gift cards, often with a fake lawyer or police officer joining the call.",
       "red_flags": [
-        "Urgent request to wire money or buy gift cards — today only",
-        "Grandchild voice sounds off — caller may say they were in an accident to explain it",
+        "Urgent request to wire money or buy gift cards \u2014 today only",
+        "Grandchild voice sounds off \u2014 caller may say they were in an accident to explain it",
         "Someone else gets on the line claiming to be a lawyer or police officer",
         "Caller begs you not to tell other family members"
       ],
@@ -52,7 +52,7 @@
       "category": "Social Security",
       "summary": "Callers claim your Social Security number has been suspended due to criminal activity and that you must verify your information or pay a fine to restore it.",
       "red_flags": [
-        "Social Security numbers cannot be suspended — this is not how Social Security works",
+        "Social Security numbers cannot be suspended \u2014 this is not how Social Security works",
         "Caller may know some of your personal information to seem legitimate",
         "Threatens arrest, deportation, or loss of benefits",
         "Demands payment by wire, gift card, or cryptocurrency"
@@ -100,7 +100,7 @@
         "Real government agencies contact you by mail first, not by unsolicited phone call",
         "Caller claims you owe money or are under investigation",
         "Demands immediate action to avoid arrest or benefit loss",
-        "Caller ID may show a real government number — this can be faked"
+        "Caller ID may show a real government number \u2014 this can be faked"
       ],
       "what_to_do": "Hang up. Find the real agency's number at usa.gov and call them directly to verify any claim.",
       "source_date": "2026-06",
@@ -112,12 +112,12 @@
       "category": "Other",
       "summary": "Callers claim to be from your bank and ask you to confirm your account number, routing number, or PIN to prevent or reverse fraudulent activity.",
       "red_flags": [
-        "Your real bank already has your account number — they will never ask you to read it back",
+        "Your real bank already has your account number \u2014 they will never ask you to read it back",
         "Caller may provide the last four digits of your card to seem legitimate",
         "Creates urgency: your account will be closed if you do not verify now",
         "Transfers you to another officer who continues the pressure"
       ],
-      "what_to_do": "Hang up. Call your bank directly using the number on the back of your card or your statement — not any number the caller provides.",
+      "what_to_do": "Hang up. Call your bank directly using the number on the back of your card or your statement \u2014 not any number the caller provides.",
       "source_date": "2026-06",
       "active": true
     },
@@ -140,14 +140,14 @@
       "id": "gift-card-payment",
       "name": "Gift Card Payment Demand",
       "category": "Other",
-      "summary": "Any caller demanding payment in gift cards — whether posing as the IRS, a utility company, a family member in trouble, or tech support — is running a scam. No legitimate business or government agency accepts gift cards as payment.",
+      "summary": "Any caller demanding payment in gift cards \u2014 whether posing as the IRS, a utility company, a family member in trouble, or tech support \u2014 is running a scam. No legitimate business or government agency accepts gift cards as payment.",
       "red_flags": [
-        "Any request for payment via gift card is a scam — no exceptions",
+        "Any request for payment via gift card is a scam \u2014 no exceptions",
         "Caller may stay on the phone while you go to the store to buy cards",
         "Asks you to read the numbers on the back of the card over the phone",
         "Creates urgency to prevent you from telling store staff what it is for"
       ],
-      "what_to_do": "Hang up immediately. If you have already bought gift cards, call the issuer on the back of the card right away — some losses can be recovered quickly. Report to the FTC at reportfraud.ftc.gov.",
+      "what_to_do": "Hang up immediately. If you have already bought gift cards, call the issuer on the back of the card right away \u2014 some losses can be recovered quickly. Report to the FTC at reportfraud.ftc.gov.",
       "source_date": "2026-06",
       "active": true
     },
@@ -162,7 +162,7 @@
         "Asks for credit card or personal information to verify your identity",
         "Offer is available today only or for a limited time"
       ],
-      "what_to_do": "Hang up — do not press any buttons. Register your number at donotcall.gov. Report specific robocall numbers to the FTC at reportfraud.ftc.gov.",
+      "what_to_do": "Hang up \u2014 do not press any buttons. Register your number at donotcall.gov. Report specific robocall numbers to the FTC at reportfraud.ftc.gov.",
       "source_date": "2026-06",
       "active": true
     },
@@ -170,14 +170,14 @@
       "id": "utility-shutoff",
       "name": "Utility Shutoff Threat Scam",
       "category": "Other",
-      "summary": "Callers claim to be from your electric, gas, or water company and threaten immediate service shutoff unless you pay a past-due balance right now — often by gift card or wire transfer.",
+      "summary": "Callers claim to be from your electric, gas, or water company and threaten immediate service shutoff unless you pay a past-due balance right now \u2014 often by gift card or wire transfer.",
       "red_flags": [
-        "Utility companies give written advance notice before any shutoff — not a same-day phone call",
+        "Utility companies give written advance notice before any shutoff \u2014 not a same-day phone call",
         "Caller demands payment by gift card, prepaid debit card, or wire transfer",
         "Refuses to give you time to call the utility company to verify",
         "Claims a technician is already on the way to disconnect service"
       ],
-      "what_to_do": "Hang up and call your utility company directly using the number on your bill. Never pay by gift card. If you are behind on bills, your utility has programs to help — ask for them.",
+      "what_to_do": "Hang up and call your utility company directly using the number on your bill. Never pay by gift card. If you are behind on bills, your utility has programs to help \u2014 ask for them.",
       "source_date": "2026-06",
       "active": true
     },
@@ -185,7 +185,7 @@
       "id": "ssn-phishing",
       "name": "Social Security Number Phishing",
       "category": "Social Security",
-      "summary": "Websites, pop-ups, or emails prompt you to enter your Social Security number to verify your account, claim a benefit, or resolve an issue — then use it for identity theft.",
+      "summary": "Websites, pop-ups, or emails prompt you to enter your Social Security number to verify your account, claim a benefit, or resolve an issue \u2014 then use it for identity theft.",
       "red_flags": [
         "You arrived at the site by clicking a link, not by typing the address yourself",
         "Site looks official but the web address does not end in .gov",
@@ -200,7 +200,7 @@
       "id": "caller-id-spoofing",
       "name": "Caller ID Spoofing",
       "category": "Other",
-      "summary": "Scammers can make any phone number appear on your caller ID — including numbers from the IRS, Social Security Administration, Medicare, your bank, or even your local police department.",
+      "summary": "Scammers can make any phone number appear on your caller ID \u2014 including numbers from the IRS, Social Security Administration, Medicare, your bank, or even your local police department.",
       "red_flags": [
         "A government agency number on your caller ID does not mean the caller is really from that agency",
         "Caller quickly pivots to asking for money or personal information",
@@ -230,7 +230,7 @@
       "id": "remote-access-scam",
       "name": "Remote Computer Access Scam",
       "category": "Tech Support",
-      "summary": "A caller or pop-up convinces you to install software giving them remote access to your computer. Once in, they steal passwords and financial accounts — then often charge you for the repair.",
+      "summary": "A caller or pop-up convinces you to install software giving them remote access to your computer. Once in, they steal passwords and financial accounts \u2014 then often charge you for the repair.",
       "red_flags": [
         "No legitimate tech company will ask to remotely access your device without a prior arrangement",
         "Pop-up warning with a phone number to call is a common starting point",
@@ -245,7 +245,7 @@
       "id": "foreign-inheritance",
       "name": "Foreign Inheritance or Windfall Scam",
       "category": "Other",
-      "summary": "An email or letter claims you are the beneficiary of a foreign inheritance, unclaimed funds, or a business deal — but you must pay legal fees or taxes upfront to receive the money.",
+      "summary": "An email or letter claims you are the beneficiary of a foreign inheritance, unclaimed funds, or a business deal \u2014 but you must pay legal fees or taxes upfront to receive the money.",
       "red_flags": [
         "Real strangers overseas do not leave inheritances to people they do not know",
         "Small upfront fees keep increasing as new requirements emerge",
@@ -260,7 +260,7 @@
       "id": "medicare-coverage-threat",
       "name": "Medicare Coverage Loss Threat",
       "category": "Medicare",
-      "summary": "Callers claim your Medicare coverage will be cancelled unless you verify your information or pay a fee immediately — a scare tactic used heavily every open enrollment season.",
+      "summary": "Callers claim your Medicare coverage will be cancelled unless you verify your information or pay a fee immediately \u2014 a scare tactic used heavily every open enrollment season.",
       "red_flags": [
         "Medicare coverage cannot be cancelled by a phone call",
         "Caller often knows your name and may mention your Medicare plan by name",
@@ -288,9 +288,9 @@
     },
     {
       "id": "scam-recovery-warning",
-      "name": "Recovery Scam — Getting Scammed Twice",
+      "name": "Recovery Scam \u2014 Getting Scammed Twice",
       "category": "Other",
-      "summary": "After someone has been scammed, another scammer may contact them claiming they can recover the lost money for a fee — this is a second scam targeting the same victim.",
+      "summary": "After someone has been scammed, another scammer may contact them claiming they can recover the lost money for a fee \u2014 this is a second scam targeting the same victim.",
       "red_flags": [
         "No legitimate service charges a fee to recover scam losses",
         "Recovery scammers often target people already known to have lost money to fraud",
@@ -305,7 +305,7 @@
       "id": "contractor-cash-upfront",
       "name": "Door-to-Door Contractor Scam",
       "category": "Other",
-      "summary": "Unsolicited contractors offer low-cost home repairs — roofing, driveway sealing, tree trimming — demand cash upfront, then do shoddy work or disappear entirely.",
+      "summary": "Unsolicited contractors offer low-cost home repairs \u2014 roofing, driveway sealing, tree trimming \u2014 demand cash upfront, then do shoddy work or disappear entirely.",
       "red_flags": [
         "Unsolicited visit, often after a storm or claiming to be in the neighborhood",
         "Demands full or large cash payment before work begins",
@@ -335,7 +335,7 @@
       "id": "package-delivery-text",
       "name": "Fake Package Delivery Text",
       "category": "Other",
-      "summary": "A text claims a package could not be delivered and asks you to click a link to reschedule — the link leads to a fake site that steals your personal and payment information.",
+      "summary": "A text claims a package could not be delivered and asks you to click a link to reschedule \u2014 the link leads to a fake site that steals your personal and payment information.",
       "red_flags": [
         "Text arrives for a package you are not expecting",
         "Link in the text goes to a suspicious domain, not ups.com, fedex.com, or usps.com",
@@ -352,7 +352,7 @@
       "category": "Other",
       "summary": "Callers claim to be debt collectors or law enforcement and threaten arrest, lawsuits, or wage garnishment unless you pay an alleged debt immediately.",
       "red_flags": [
-        "You cannot be arrested for unpaid debt — debt collection is a civil matter, not criminal",
+        "You cannot be arrested for unpaid debt \u2014 debt collection is a civil matter, not criminal",
         "Legitimate debt collectors must provide written notice and cannot threaten criminal action",
         "Caller refuses to provide the collector's name, address, or original creditor",
         "Demands immediate payment by wire transfer or gift card"
@@ -365,11 +365,11 @@
       "id": "found-item-info-theft",
       "name": "Found Wallet Identity Theft Setup",
       "category": "Other",
-      "summary": "A caller claims to have found your wallet, purse, or ID and asks you to confirm personal details — including your address or Social Security number — to arrange its return. The wallet is not actually found.",
+      "summary": "A caller claims to have found your wallet, purse, or ID and asks you to confirm personal details \u2014 including your address or Social Security number \u2014 to arrange its return. The wallet is not actually found.",
       "red_flags": [
         "A real person who finds your wallet does not need your Social Security number to return it",
         "Caller may know your name from the ID but asks for information they should not need",
-        "You did not actually lose your wallet — the claim is fabricated",
+        "You did not actually lose your wallet \u2014 the claim is fabricated",
         "Caller offers to drop it off and asks for your address and daily schedule"
       ],
       "what_to_do": "Do not confirm any personal information. Ask them to drop the item at your local police department. If you are concerned your ID was actually lost, contact your bank and check your credit.",
@@ -380,7 +380,7 @@
       "id": "medicare-covid-number-theft",
       "name": "COVID and Medicare Number Theft",
       "category": "Medicare",
-      "summary": "Callers offer free COVID tests, vaccines, or medical equipment and ask for your Medicare number to send it at no charge — then use the number for billing fraud.",
+      "summary": "Callers offer free COVID tests, vaccines, or medical equipment and ask for your Medicare number to send it at no charge \u2014 then use the number for billing fraud.",
       "red_flags": [
         "Unsolicited offers for free COVID-related products requiring your Medicare number",
         "Caller may also ask for date of birth or Social Security number",
@@ -395,7 +395,7 @@
       "id": "lottery-sweepstakes",
       "name": "Lottery and Sweepstakes Scam",
       "category": "Lottery",
-      "summary": "You receive a letter, call, or email congratulating you on winning a sweepstakes — but must pay taxes, insurance, or fees before the winnings are released. Sometimes a fake check is included.",
+      "summary": "You receive a letter, call, or email congratulating you on winning a sweepstakes \u2014 but must pay taxes, insurance, or fees before the winnings are released. Sometimes a fake check is included.",
       "red_flags": [
         "You cannot win a lottery or sweepstakes you did not enter",
         "Any fee required before you receive winnings is a scam",
@@ -410,7 +410,7 @@
       "id": "disaster-charity-scam",
       "name": "Disaster and Charity Scam",
       "category": "Other",
-      "summary": "After natural disasters or national tragedies, fake charities appear soliciting donations by phone or email — the money goes directly to scammers, not victims.",
+      "summary": "After natural disasters or national tragedies, fake charities appear soliciting donations by phone or email \u2014 the money goes directly to scammers, not victims.",
       "red_flags": [
         "Unsolicited call or email asking for donations immediately after a news event",
         "Charity name sounds similar to well-known organizations but is slightly different",
@@ -425,14 +425,14 @@
       "id": "home-warranty-robocall",
       "name": "Home Warranty Robocall Scam",
       "category": "Other",
-      "summary": "Automated calls claim your home warranty is expiring and urge you to press a number to renew — leading to fake extended warranty plans or outright theft of your payment information.",
+      "summary": "Automated calls claim your home warranty is expiring and urge you to press a number to renew \u2014 leading to fake extended warranty plans or outright theft of your payment information.",
       "red_flags": [
         "Your real home warranty company contacts you by mail, not by unsolicited robocall",
         "Caller may know your name and address to seem legitimate",
         "Pressing 1 connects you to someone pushing for immediate payment",
         "Low-cost deal available today only to pressure a quick decision"
       ],
-      "what_to_do": "Hang up — do not press any buttons. Check your actual warranty paperwork and contact that company directly if you have concerns. Report robocalls at donotcall.gov.",
+      "what_to_do": "Hang up \u2014 do not press any buttons. Check your actual warranty paperwork and contact that company directly if you have concerns. Report robocalls at donotcall.gov.",
       "source_date": "2026-06",
       "active": true
     },
@@ -448,6 +448,104 @@
         "Any caller who warns you not to tell anyone else about the conversation"
       ],
       "what_to_do": "Hang up. Find the real organization's phone number from your card, statement, or official .gov website. Call that number and ask if there is actually an issue with your account.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "ai-voice-cloning-grandparent-scam",
+      "name": "AI Voice Cloning Grandparent Scam",
+      "category": "Grandparent",
+      "summary": "Scammers use short audio clips of a grandchild's voice, often taken from social media, to clone their voice using artificial intelligence. They then call the grandparent pretending to be the grandchild in distress, demanding immediate money for an emergency.",
+      "red_flags": [
+        "Caller demands immediate payment via gift cards, wire transfer, or cryptocurrency",
+        "Caller insists on absolute secrecy and begs you not to tell other family members",
+        "The voice sounds like a loved one but the situation or request is highly unusual"
+      ],
+      "what_to_do": "Hang up immediately and call your grandchild or another family member directly on their known phone number to verify. Report the call to the Federal Trade Commission at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "government-imposter-safekeeping-scam",
+      "name": "Government Imposter Safekeeping Scam",
+      "category": "Government",
+      "summary": "Fraudsters pose as government officials or law enforcement, claiming the victim's bank account has been compromised. They instruct the retiree to transfer their funds into a government safety account or purchase precious metals for safekeeping.",
+      "red_flags": [
+        "Directives to move money from your bank account to a secure government account",
+        "Demands to buy physical gold, silver, or cryptocurrency to protect your assets",
+        "Threats of arrest or asset seizure if you do not comply immediately"
+      ],
+      "what_to_do": "Never transfer money or buy precious metals based on an unsolicited call. Report government impersonators to the FBI's Internet Crime Complaint Center at ic3.gov or the FTC.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "social-security-statement-phishing",
+      "name": "Social Security Statement Phishing Scam",
+      "category": "Social Security",
+      "summary": "Scammers send fraudulent emails or text messages claiming to provide access to the recipient's updated Social Security statement. These messages contain links to fake login portals designed to steal the victim's Social Security number and personal credentials.",
+      "red_flags": [
+        "Unsolicited emails or texts containing links to view your Social Security statement",
+        "Urgent requests to verify your identity or update your account details to avoid losing benefits",
+        "Sender addresses that do not end in a legitimate .gov domain"
+      ],
+      "what_to_do": "Do not click on any links in unsolicited messages; instead, log in directly at ssa.gov to check your statement. Report the scam to the Social Security Administration Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "fake-tech-support-pop-ups",
+      "name": "Fake Tech Support Pop Up Scam",
+      "category": "Tech Support",
+      "summary": "Retirees see alarming pop-up alerts on their computer screens claiming their device is infected with viruses or has been locked. The pop-up provides a phone number to call a certified technician who then demands remote access and a fee to fix the non-existent issue.",
+      "red_flags": [
+        "Sudden full-screen pop-ups that lock your browser and display urgent warning messages",
+        "Demands for immediate payment via gift cards, wire transfers, or cryptocurrency to resolve a computer issue",
+        "Requests to download remote desktop software to allow a stranger access to your computer"
+      ],
+      "what_to_do": "Restart your computer to clear the pop-up and run a scan using legitimate, pre-installed antivirus software. Report the incident to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "medicare-card-replacement-scam",
+      "name": "Medicare Card Replacement Scam",
+      "category": "Medicare",
+      "summary": "Scammers call seniors claiming that Medicare is issuing new plastic, metal, or chip-enabled cards. They ask the victim to verify their current Medicare number and personal information, which is then used for identity theft or medical billing fraud.",
+      "red_flags": [
+        "Unsolicited calls from individuals claiming to represent Medicare or the government",
+        "Requests for your Medicare number, Social Security number, or bank details to issue a new card",
+        "Claims that your current Medicare benefits will be suspended if you do not upgrade your card"
+      ],
+      "what_to_do": "Hang up immediately, as Medicare will never call you unsolicited to ask for your Medicare number. Report the call to Medicare at 1-800-MEDICARE or the FTC.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "crypto-investment-retirement-scam",
+      "name": "Cryptocurrency Investment Retirement Scam",
+      "category": "Other",
+      "summary": "Fraudsters target retirees with promises of high, guaranteed returns on cryptocurrency or foreign exchange investments. They guide victims to transfer funds into fake trading platforms that show fabricated profits, only to lock the accounts when the victim tries to withdraw money.",
+      "red_flags": [
+        "Promises of high, guaranteed financial returns with little to no risk",
+        "Pressure to invest quickly using cryptocurrency, wire transfers, or retirement account rollovers",
+        "Difficulty or sudden fees when attempting to withdraw your funds from the investment platform"
+      ],
+      "what_to_do": "Consult a licensed, independent financial advisor before making any major investment decisions. Report investment fraud to the Securities and Exchange Commission or the Commodity Futures Trading Commission.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "online-romance-and-crypto-scam",
+      "name": "Online Romance and Crypto Scam",
+      "category": "Romance",
+      "summary": "Scammers build trusting, long-term romantic relationships with seniors online through dating apps or social media. Once trust is established, they fabricate financial emergencies or introduce lucrative investment opportunities, convincing the victim to send money.",
+      "red_flags": [
+        "An online love interest who quickly professes deep affection but always makes excuses to avoid meeting in person",
+        "Requests for money to cover sudden emergencies, travel expenses, or medical bills",
+        "Encouragement to invest in a specific cryptocurrency platform or business opportunity they claim to use"
+      ],
+      "what_to_do": "Never send money, gift cards, or cryptocurrency to someone you have only met online. Report romance scammers to the FBI's IC3 at ic3.gov and the dating platform where you met.",
       "source_date": "2026-06",
       "active": true
     }
