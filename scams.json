@@ -548,6 +548,90 @@
       "what_to_do": "Never send money, gift cards, or cryptocurrency to someone you have only met online. Report romance scammers to the FBI's IC3 at ic3.gov and the dating platform where you met.",
       "source_date": "2026-06",
       "active": true
+    },
+    {
+      "id": "medicare-prescription-drug-cap-scam",
+      "name": "Medicare Prescription Drug Cap Scam",
+      "category": "Medicare",
+      "summary": "Scammers contact seniors claiming they must pay an upfront processing fee to qualify for the new 2026 Medicare Part D out-of-pocket prescription drug cap. They may also ask for the victim's Medicare number to verify eligibility.",
+      "red_flags": [
+        "Unsolicited calls or texts offering help with the new prescription drug cap",
+        "Demands for an upfront processing fee to activate the cap",
+        "Requests for your Medicare number or other personal financial information"
+      ],
+      "what_to_do": "Hang up immediately and contact the Senior Medicare Patrol or call 1-800-MEDICARE directly to verify your plan. Report the scam to the Federal Trade Commission at ReportFraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "jury-duty-arrest-warrant-scam",
+      "name": "Jury Duty Arrest Warrant Scam",
+      "category": "Government",
+      "summary": "Scammers spoof local law enforcement numbers and call seniors claiming they missed jury duty and face immediate arrest. They demand the victim pay a fine or bond immediately using a cryptocurrency kiosk or gift cards to clear the warrant.",
+      "red_flags": [
+        "Unsolicited calls claiming you missed jury duty and have an active arrest warrant",
+        "Demands for immediate payment using cryptocurrency ATMs, gift cards, or wire transfers",
+        "The caller stays on the line with you while you go to the bank or a kiosk"
+      ],
+      "what_to_do": "Hang up immediately and call your local courthouse or sheriff's department directly using an official number to check your status. Report the call to the FTC at ReportFraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "toll-road-collection-smishing-scam",
+      "name": "Toll Road Collection Smishing Scam",
+      "category": "Other",
+      "summary": "Seniors receive urgent text messages claiming they have unpaid highway toll fees that must be settled immediately to avoid late penalties. The text contains a link to a fake website designed to harvest credit card details and personal information.",
+      "red_flags": [
+        "Unsolicited text messages claiming you owe money for unpaid toll roads",
+        "High-pressure language warning of immediate late fees or legal action",
+        "Links in the text message that do not lead to an official government website"
+      ],
+      "what_to_do": "Do not click on any links in the text message; instead, check your official toll account online or call the toll agency directly. Forward the scam text to 7726 and report it to the FBI's Internet Crime Complaint Center.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "social-security-statement-phishing-scam",
+      "name": "Social Security Statement Phishing Scam",
+      "category": "Social Security",
+      "summary": "Scammers send unsolicited emails and text messages claiming there is an important update to the recipient's Social Security benefits or that a new statement is available. The messages contain links to fraudulent websites designed to steal Social Security numbers and bank details.",
+      "red_flags": [
+        "Unsolicited emails or text messages claiming your Social Security benefits are updated or suspended",
+        "Links in the message that lead to websites with subtle typos or misspellings of official government URLs",
+        "Requests to input your Social Security number, bank account details, or login credentials online"
+      ],
+      "what_to_do": "Do not click any links in the message; instead, log in directly to your official account at ssa.gov. Report the scam to the Social Security Administration Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "irs-phishing-ai-phone-scam",
+      "name": "IRS Phishing AI Phone Scam",
+      "category": "IRS",
+      "summary": "Fraudsters use AI-enabled robocalls and spoofed caller IDs to impersonate IRS agents demanding immediate payment for unpaid taxes. They also send phishing emails with fake IRS logos prompting victims to update refund details.",
+      "red_flags": [
+        "Unsolicited calls, texts, or emails claiming you owe back taxes and face immediate arrest or lawsuits",
+        "Demands for payment via gift cards, wire transfers, or cryptocurrency",
+        "Emails with poor spelling, odd punctuation, or links that do not match the official irs.gov domain"
+      ],
+      "what_to_do": "Hang up or delete the message immediately, and check your official tax account status directly on irs.gov. Report tax-related scams to the Treasury Inspector General for Tax Administration at tigta.gov.",
+      "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "tech-support-remote-access-scam",
+      "name": "Tech Support Remote Access Scam",
+      "category": "Tech Support",
+      "summary": "Scammers use fake browser pop-ups, unsolicited calls, or emails claiming the victim's computer is infected with a virus. They pressure seniors to grant remote access to their devices or pay hundreds of dollars to fix a non-existent problem.",
+      "red_flags": [
+        "Sudden, unclosable browser pop-ups warning of a virus and providing a phone number to call",
+        "Unsolicited calls from someone claiming to represent Microsoft, Apple, or a bank's fraud department",
+        "Demands to download remote desktop software or pay using gift cards, wire transfers, or cryptocurrency"
+      ],
+      "what_to_do": "Never call phone numbers shown on pop-ups, and never grant remote access to your computer to an unsolicited caller. If you suspect an issue, take your device to a local, reputable repair shop and report the scam to ReportFraud.ftc.gov.",
+      "source_date": "2026-06",
+      "active": true
     }
   ]
 }
