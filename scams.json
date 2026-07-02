@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23",
+  "updated": "2026-07-02",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -631,6 +631,90 @@
       ],
       "what_to_do": "Never call phone numbers shown on pop-ups, and never grant remote access to your computer to an unsolicited caller. If you suspect an issue, take your device to a local, reputable repair shop and report the scam to ReportFraud.ftc.gov.",
       "source_date": "2026-06",
+      "active": true
+    },
+    {
+      "id": "medicare-hospice-and-equipment-fraud",
+      "name": "Medicare Hospice and Equipment Fraud",
+      "category": "Medicare",
+      "summary": "Fraudsters contact seniors offering free medical equipment, genetic testing, or hospice services to steal their Medicare numbers and bill the government for services never received.",
+      "red_flags": [
+        "Unsolicited calls, emails, or door-to-door visits offering free medical supplies or services.",
+        "Demands for your Medicare number to verify eligibility for a free offer.",
+        "Claims that a temporary Medicare card or new plastic card is required."
+      ],
+      "what_to_do": "Never share your Medicare number with unsolicited callers, and report suspected fraud to Medicare at 1-800-MEDICARE or the Senior Medicare Patrol.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "government-impersonation-and-legal-threats",
+      "name": "Government Impersonation and Legal Threats",
+      "category": "Government",
+      "summary": "Scammers pose as law enforcement or government officials, claiming the senior has unpaid taxes, missed jury duty, or an active warrant, and threatening arrest unless they pay immediately.",
+      "red_flags": [
+        "Threats of immediate arrest, deportation, or suspension of your driver's license.",
+        "Demands for payment via unusual methods like gift cards, prepaid debit cards, or cryptocurrency.",
+        "Pressure to stay on the phone while you go to a store or bank to transfer funds."
+      ],
+      "what_to_do": "Hang up and contact the official agency directly using a verified phone number from their official website. Report the scam to the Federal Trade Commission at reportfraud.ftc.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "tech-support-security-alert-scam",
+      "name": "Tech Support Security Alert Scam",
+      "category": "Tech Support",
+      "summary": "Fake computer pop-ups or unsolicited calls claim the victim's computer is infected with malware or their bank account is compromised, directing them to call a fake helpline.",
+      "red_flags": [
+        "Sudden, loud, or flashing pop-up warnings on your computer screen that block your browser.",
+        "Demands to download remote desktop software to allow a technician to fix the issue.",
+        "Requests for payment or bank transfers to secure your funds from hackers."
+      ],
+      "what_to_do": "Restart your computer to clear the pop-up, never allow remote access to unsolicited callers, and report the scam to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "social-security-number-suspension-scam",
+      "name": "Social Security Number Suspension Scam",
+      "category": "Social Security",
+      "summary": "Scammers call seniors claiming their Social Security number has been suspended or linked to a crime, demanding personal details to reactivate it.",
+      "red_flags": [
+        "Claims that your Social Security number has been suspended or blocked.",
+        "Demands for immediate payment or verification of your full Social Security number over the phone.",
+        "Threats that your benefits will be permanently terminated if you do not cooperate."
+      ],
+      "what_to_do": "Hang up immediately, as the Social Security Administration will never threaten you or suspend your number. Report the call to the SSA Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "fake-sweepstakes-and-lottery-scams",
+      "name": "Fake Sweepstakes and Lottery Scams",
+      "category": "Lottery",
+      "summary": "Seniors receive notifications claiming they have won a major lottery or sweepstakes but must pay upfront fees or taxes to release the winnings.",
+      "red_flags": [
+        "Notifications of winning a contest, lottery, or sweepstakes that you never entered.",
+        "Requests to pay processing fees, taxes, or customs duties before receiving your prize.",
+        "Pressure to keep your winnings confidential until the transaction is complete."
+      ],
+      "what_to_do": "Do not send any money or personal information, as legitimate lotteries never require upfront fees to claim prizes. Report the scam to the Federal Trade Commission at reportfraud.ftc.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "pig-butchering-and-romance-scams",
+      "name": "Pig Butchering and Romance Scams",
+      "category": "Romance",
+      "summary": "Scammers build long-term romantic relationships with seniors online before introducing fake, high-return cryptocurrency or investment opportunities to steal their life savings.",
+      "red_flags": [
+        "An online love interest who quickly professes deep affection but always makes excuses to avoid meeting in person.",
+        "Unsolicited advice or pressure to invest in cryptocurrency, foreign exchange, or specific trading apps.",
+        "Requests for money to help with a sudden medical emergency, travel expenses, or business crisis."
+      ],
+      "what_to_do": "Never send money, buy gift cards, or invest based on advice from someone you have only met online. Report romance and investment scams to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-07",
       "active": true
     }
   ]
