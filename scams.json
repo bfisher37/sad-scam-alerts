@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-05",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -714,6 +714,104 @@
         "Requests for money to help with a sudden medical emergency, travel expenses, or business crisis."
       ],
       "what_to_do": "Never send money, buy gift cards, or invest based on advice from someone you have only met online. Report romance and investment scams to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "ai-grandparent-emergency-scam",
+      "name": "AI Grandparent Emergency Scam",
+      "category": "Grandparent",
+      "summary": "Scammers use AI voice cloning technology to mimic a grandchild's voice, claiming they are in urgent trouble and need immediate money for bail or medical bills.",
+      "red_flags": [
+        "High-pressure demands for immediate payment via cryptocurrency, wire transfer, or gift cards",
+        "A plea to keep the situation a secret from other family members",
+        "The caller's voice sounds slightly robotic or has unusual background noise despite sounding like a loved one"
+      ],
+      "what_to_do": "Hang up immediately and call your grandchild or their parents directly on their known phone number to verify. Report the call to the FTC at reportfraud.ftc.gov and the FBI's IC3 at ic3.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "government-impersonation-arrest-scam",
+      "name": "Government Impersonation Arrest Scam",
+      "category": "Government",
+      "summary": "Scammers pose as federal agents or law enforcement officers, claiming the victim's identity has been stolen or linked to a crime and threatening arrest unless they pay.",
+      "red_flags": [
+        "Threats of immediate arrest, deportation, or suspension of your driver's license",
+        "Demands to move your money into a safe government account or purchase gold or cryptocurrency",
+        "Instructions to keep the call secret and stay on the line while going to the bank"
+      ],
+      "what_to_do": "Hang up immediately, as legitimate government agencies will never threaten arrest over the phone or demand payment via crypto or gift cards. Report the call to the FBI's IC3 at ic3.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "social-security-suspension-scam",
+      "name": "Social Security Suspension Scam",
+      "category": "Social Security",
+      "summary": "Fraudsters call or text seniors claiming their Social Security number has been suspended due to suspicious activity and demand personal details to reactivate it.",
+      "red_flags": [
+        "Unsolicited calls or texts claiming your Social Security number is blocked or suspended",
+        "Demands to confirm your full Social Security number, date of birth, or bank details over the phone",
+        "Threats that your monthly benefits will be permanently terminated if you do not cooperate immediately"
+      ],
+      "what_to_do": "Hang up and do not provide any personal information, as the Social Security Administration never suspends numbers. Report the scam to the SSA Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "medicare-card-benefit-scam",
+      "name": "Medicare Card Benefit Scam",
+      "category": "Medicare",
+      "summary": "Scammers call seniors offering new plastic Medicare cards, free medical equipment, or genetic testing kits in exchange for their Medicare number.",
+      "red_flags": [
+        "Unsolicited calls offering free medical braces, genetic tests, or a new chip-enabled Medicare card",
+        "Requests for your Medicare number or other personal health insurance details to process free items",
+        "High-pressure tactics claiming your current Medicare benefits will be canceled if you do not update your information"
+      ],
+      "what_to_do": "Guard your Medicare card like a credit card and hang up on anyone offering free medical supplies. Report Medicare fraud to 1-800-MEDICARE or online at medicare.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "irs-tax-debt-penalty-scam",
+      "name": "IRS Tax Debt Penalty Scam",
+      "category": "IRS",
+      "summary": "Scammers impersonate IRS agents via phone, email, or text, claiming the senior owes back taxes and threatening lawsuits or asset seizure if they do not pay immediately.",
+      "red_flags": [
+        "Unsolicited calls or texts demanding immediate payment for unpaid taxes without sending an official mail notice first",
+        "Demands for payment through specific, non-traditional methods like prepaid debit cards, wire transfers, or gift cards",
+        "Threats of involving local police, immigration officers, or other law enforcement to arrest you"
+      ],
+      "what_to_do": "Hang up and contact the IRS directly at irs.gov or call 1-800-829-1040 to verify your tax status. Report the scam to the Treasury Inspector General for Tax Administration at tigta.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "crypto-pig-butchering-investment-scam",
+      "name": "Crypto Pig Butchering Investment Scam",
+      "category": "Other",
+      "summary": "Fraudsters build trust with seniors over weeks through social media or messaging apps, eventually convincing them to invest their retirement savings into fake cryptocurrency platforms.",
+      "red_flags": [
+        "Unsolicited wrong number texts or social media messages that turn into friendly, daily conversations",
+        "Promises of high, guaranteed investment returns with zero risk on a specific cryptocurrency platform",
+        "Pressure to withdraw large sums from retirement accounts and transfer them to a recommended trading app or website"
+      ],
+      "what_to_do": "Never invest money based on advice from someone you have only met online, and refuse to move funds to unfamiliar platforms. Report investment fraud to the SEC at sec.gov and the FBI's IC3 at ic3.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "fake-sweepstakes-lottery-scam",
+      "name": "Fake Sweepstakes Lottery Scam",
+      "category": "Lottery",
+      "summary": "Seniors are contacted via mail, phone, or email and told they have won a major lottery or sweepstakes, but must pay upfront fees or taxes to release the winnings.",
+      "red_flags": [
+        "Notifications that you won a contest, lottery, or sweepstakes that you do not remember entering",
+        "Demands to pay processing fees, customs duties, or taxes before you can receive your prize",
+        "Requests to send these upfront payments via wire transfer, gift cards, or cash delivery services"
+      ],
+      "what_to_do": "Remember that legitimate lotteries never require winners to pay upfront fees to claim a prize. Report sweepstakes scams to the FTC at reportfraud.ftc.gov.",
       "source_date": "2026-07",
       "active": true
     }
