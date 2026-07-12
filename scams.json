@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-12",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -812,6 +812,76 @@
         "Requests to send these upfront payments via wire transfer, gift cards, or cash delivery services"
       ],
       "what_to_do": "Remember that legitimate lotteries never require winners to pay upfront fees to claim a prize. Report sweepstakes scams to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "government-imposter-safe-account-scam",
+      "name": "Government Imposter Safe Account Scam",
+      "category": "Government",
+      "summary": "Fraudsters pose as federal law enforcement or government agents, claiming the victim's bank accounts have been compromised or linked to a crime. They instruct the senior to move their funds into a secure government account or hand cash to a courier for safekeeping.",
+      "red_flags": [
+        "Unsolicited calls or messages claiming to be from the FBI, SSA, or local police",
+        "Demands to withdraw cash, buy gold, or transfer funds to protect your money",
+        "Instructions to keep the transaction a secret and not tell bank employees"
+      ],
+      "what_to_do": "Hang up immediately and do not transfer any funds or meet with any couriers. Report the incident to the FBI's Internet Crime Complaint Center at IC3.gov and the FTC.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "geek-squad-auto-renewal-refund-scam",
+      "name": "Geek Squad Auto Renewal Refund Scam",
+      "category": "Tech Support",
+      "summary": "Seniors receive fake email invoices claiming they have been charged hundreds of dollars for a Geek Squad or tech support subscription renewal. When they call the provided number to dispute the charge, scammers trick them into giving remote access to their computer and manipulating their bank accounts.",
+      "red_flags": [
+        "An unexpected invoice for a subscription you never signed up for",
+        "A customer support agent insisting on installing remote-access software to process a refund",
+        "The agent claiming they accidentally over-refunded you and demanding you send back the difference"
+      ],
+      "what_to_do": "Do not call the phone number in the email, and never allow strangers remote access to your computer. Report the phishing email to Best Buy and the FTC at ReportFraud.ftc.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "medicare-hospice-enrollment-fraud-scam",
+      "name": "Medicare Hospice Enrollment Fraud Scam",
+      "category": "Medicare",
+      "summary": "Fraudulent agencies or marketers target seniors to enroll them in hospice care services they do not need and are not qualified for, often by offering free gifts or checkups. This scam can result in Medicare being billed thousands of dollars and can block the senior's access to actual life-saving medical treatments.",
+      "red_flags": [
+        "Unsolicited offers of free medical equipment, checkups, or nutritional supplements in exchange for your Medicare number",
+        "Being asked to sign documents enrolling you in hospice care when you are not terminally ill",
+        "Discovering unauthorized hospice charges or changes on your Medicare Summary Notice"
+      ],
+      "what_to_do": "Never share your Medicare number with anyone who contacts you unsolicited. Report suspected Medicare fraud to the Senior Medicare Patrol (SMP) at 1-877-808-2468 or stopmedicarefraud.org.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "crypto-romance-investment-scam",
+      "name": "Crypto Romance Investment Scam",
+      "category": "Romance",
+      "summary": "Scammers build long-term online relationships with seniors through dating apps or social media to gain their trust. Once a bond is established, they introduce a guaranteed cryptocurrency investment opportunity and pressure the victim to transfer their retirement savings into a fraudulent trading platform.",
+      "red_flags": [
+        "An online romantic partner who refuses to meet in person or video chat",
+        "Conversations that quickly shift from romance to financial advice and investment opportunities",
+        "Requests to send money or cryptocurrency to a specific, unfamiliar trading platform"
+      ],
+      "what_to_do": "Never send money or invest based on advice from someone you have only met online. Report romance and investment scams to the FBI's Internet Crime Complaint Center at IC3.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "irs-tax-refund-penalty-scam",
+      "name": "IRS Tax Refund Penalty Scam",
+      "category": "IRS",
+      "summary": "Fraudsters contact seniors via phone, text, or email posing as IRS agents, claiming the victim either owes back taxes or is eligible for an unclaimed tax refund. They threaten immediate arrest or legal action unless a payment is made, or they demand personal banking details to deposit the fake refund.",
+      "red_flags": [
+        "Unsolicited phone calls, texts, or emails claiming to be from the IRS demanding immediate payment",
+        "Threats of arrest, deportation, or driver's license suspension by law enforcement",
+        "Demands for payment via gift cards, prepaid debit cards, or wire transfers"
+      ],
+      "what_to_do": "Hang up immediately, as the IRS always initiates contact via mail and will never demand immediate payment over the phone. Report the scam to the Treasury Inspector General for Tax Administration (TIGTA) at tigta.gov.",
       "source_date": "2026-07",
       "active": true
     }
