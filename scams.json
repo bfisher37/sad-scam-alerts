@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12",
+  "updated": "2026-07-19",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -882,6 +882,104 @@
         "Demands for payment via gift cards, prepaid debit cards, or wire transfers"
       ],
       "what_to_do": "Hang up immediately, as the IRS always initiates contact via mail and will never demand immediate payment over the phone. Report the scam to the Treasury Inspector General for Tax Administration (TIGTA) at tigta.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "ai-powered-grandparent-scam",
+      "name": "AI Grandchild Voice Cloning Scam",
+      "category": "Grandparent",
+      "summary": "Scammers use artificial intelligence to clone a grandchild's voice from social media videos, then call grandparents claiming to be in an emergency and in need of immediate money.",
+      "red_flags": [
+        "An unexpected, urgent call from a grandchild claiming to be in trouble or arrested",
+        "Demands for immediate payment via wire transfer, gift cards, or cryptocurrency",
+        "Pressure to keep the situation a secret from other family members"
+      ],
+      "what_to_do": "Hang up immediately and call your grandchild or their parents directly on their known phone numbers to verify. Report the call to the FTC at ReportFraud.ftc.gov and the FBI's IC3.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "class-action-lawsuit-settlement-scam",
+      "name": "Fake Class Action Settlement Scam",
+      "category": "Other",
+      "summary": "Fraudsters send fake emails, letters, or make calls claiming the recipient is eligible for a large payout from a class-action lawsuit, but must pay an upfront fee or provide sensitive personal data to claim it.",
+      "red_flags": [
+        "Demands for an upfront processing fee, tax, or administrative charge to release your settlement funds",
+        "Urgent deadlines or high-pressure language to act quickly",
+        "Requests for highly sensitive personal data like your Social Security number or bank account details"
+      ],
+      "what_to_do": "Never pay an upfront fee to receive a class-action settlement, as legitimate settlements never require this. Verify the lawsuit's legitimacy on official court websites or report it to the FTC.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "social-security-cola-increase-scam",
+      "name": "Social Security COLA Increase Scam",
+      "category": "Social Security",
+      "summary": "Imposters contact seniors claiming they must fill out forms or verify personal details to receive their annual Cost-of-Living Adjustment (COLA) increase.",
+      "red_flags": [
+        "A call, text, or email claiming you must take action to receive your annual COLA increase",
+        "Requests to verify your Social Security number, date of birth, or bank routing details",
+        "Threats that your benefits will be suspended if you do not comply immediately"
+      ],
+      "what_to_do": "Remember that COLA increases are applied automatically and the SSA will never call to ask for personal info to process them. Report these attempts to the SSA Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "medicare-card-chip-scam",
+      "name": "New Medicare Plastic Card Scam",
+      "category": "Medicare",
+      "summary": "Scammers call beneficiaries claiming that Medicare is issuing new plastic cards with embedded microchips and that they must verify their current Medicare number to receive one.",
+      "red_flags": [
+        "Unsolicited calls from someone claiming to be a Medicare representative offering a new plastic or metal card",
+        "Demands for a processing fee or verification of your Medicare number to ship the card",
+        "Threats that your current health coverage will be canceled if you do not upgrade"
+      ],
+      "what_to_do": "Hang up immediately, as Medicare does not issue plastic chip cards or make unsolicited calls to verify numbers. Report the scam to 1-800-MEDICARE and the Senior Medicare Patrol.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "toll-road-collection-text-scam",
+      "name": "Toll Road Collection Text Scam",
+      "category": "Other",
+      "summary": "Seniors receive urgent text messages claiming they have unpaid toll road fees that must be settled immediately via a provided link to avoid late penalties or court dates.",
+      "red_flags": [
+        "An unexpected text message claiming you owe money for a toll road or smishing link",
+        "Urgent warnings of immediate late fees, license suspension, or legal action",
+        "A link in the text message that does not lead to an official government website"
+      ],
+      "what_to_do": "Do not click on any links in unexpected texts; instead, check your toll account directly through the official state tolling authority website. Report the text to the FBI's Internet Crime Complaint Center (IC3) and forward the message to 7726.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "tech-support-gold-bar-scam",
+      "name": "Tech Support Gold Bar Scam",
+      "category": "Tech Support",
+      "summary": "Scammers initiate contact through fake computer pop-ups claiming a virus has compromised the victim's bank account, eventually instructing them to buy gold bars and hand them over to a 'government agent' for safekeeping.",
+      "red_flags": [
+        "Pop-up alerts on your computer claiming your system is infected and providing a phone number to call",
+        "A support agent or bank official instructing you to withdraw your savings or buy gold bars to protect your money",
+        "Instructions to hand over cash or gold to a courier or federal agent who will meet you in person"
+      ],
+      "what_to_do": "Never call numbers on computer pop-ups or allow remote access to your device. If instructed to buy gold or move money, hang up and contact your bank directly using the number on your debit card, then report it to the FTC.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "romance-crypto-investment-scam",
+      "name": "Romance and Crypto Investment Scam",
+      "category": "Romance",
+      "summary": "Scammers build trust through online dating apps or social media over weeks, then convince the victim to invest their retirement savings into a fraudulent cryptocurrency platform.",
+      "red_flags": [
+        "An online romantic interest who quickly steers conversations toward financial success or cryptocurrency",
+        "Requests to move your conversation off the original platform to encrypted messaging apps",
+        "Pressure to invest money in a specific, unfamiliar trading platform that shows fake, rapid profits"
+      ],
+      "what_to_do": "Never send money, cryptocurrency, or financial details to someone you have only met online. Report romance and investment scams to the FTC at ReportFraud.ftc.gov and the FBI's IC3.",
       "source_date": "2026-07",
       "active": true
     }
