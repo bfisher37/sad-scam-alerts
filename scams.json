@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-26",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -980,6 +980,62 @@
         "Pressure to invest money in a specific, unfamiliar trading platform that shows fake, rapid profits"
       ],
       "what_to_do": "Never send money, cryptocurrency, or financial details to someone you have only met online. Report romance and investment scams to the FTC at ReportFraud.ftc.gov and the FBI's IC3.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "medicare-card-update-scam",
+      "name": "Medicare Card Update Scam",
+      "category": "Medicare",
+      "summary": "Fraudsters call seniors claiming that Medicare is issuing new plastic or chip-embedded cards and demand the victim's current Medicare number to process the shipment.",
+      "red_flags": [
+        "An unsolicited caller asks you to verify your Medicare number or personal details",
+        "The caller claims your benefits will be canceled if you do not get the new card",
+        "A fee is requested to issue or activate the new Medicare card"
+      ],
+      "what_to_do": "Hang up and do not share your Medicare number with unsolicited callers. Report the incident to 1-800-MEDICARE and the FTC.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "online-romance-companion-scam",
+      "name": "Online Romance Companion Scam",
+      "category": "Romance",
+      "summary": "Scammers create fake profiles on social media or dating sites to build emotional connections with lonely seniors before fabricating emergencies to ask for money.",
+      "red_flags": [
+        "The person quickly professes strong feelings or love without meeting in person",
+        "They repeatedly make excuses to avoid video calls or in-person meetings",
+        "They ask for financial help for medical emergencies, travel, or business opportunities"
+      ],
+      "what_to_do": "Stop all communication immediately and perform a reverse-image search of their profile picture. Report the profile to the platform and file a complaint with the FBI's IC3.",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "irs-tax-debt-threat-scam",
+      "name": "IRS Tax Debt Threat Scam",
+      "category": "IRS",
+      "summary": "Scammers pose as IRS agents calling to demand immediate payment for back taxes, threatening arrest, deportation, or driver's license suspension if the victim does not comply.",
+      "red_flags": [
+        "An unsolicited caller claims to be from the IRS and demands immediate payment",
+        "The caller refuses to let you hang up to verify their identity",
+        "They demand payment through specific methods like prepaid debit cards or wire transfers"
+      ],
+      "what_to_do": "Hang up and contact the IRS directly using their official website contact information if you think you owe taxes. Report the call to the Treasury Inspector General for Tax Administration (TIGTA).",
+      "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "sweepstakes-lottery-fees-scam",
+      "name": "Sweepstakes and Lottery Fees Scam",
+      "category": "Lottery",
+      "summary": "Seniors are contacted via phone, mail, or email and told they have won a major lottery or sweepstakes but must pay upfront processing fees or taxes to claim their prize.",
+      "red_flags": [
+        "You are told you won a contest or lottery that you do not remember entering",
+        "You must pay upfront fees, taxes, or customs duties to release your winnings",
+        "The sender pressures you to keep your winnings confidential"
+      ],
+      "what_to_do": "Do not send any money, as legitimate lotteries never require winners to pay upfront fees to receive a prize. Report the scam to the FTC at reportfraud.ftc.gov.",
       "source_date": "2026-07",
       "active": true
     }
