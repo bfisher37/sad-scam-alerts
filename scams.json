@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-08-02",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1037,6 +1037,90 @@
       ],
       "what_to_do": "Do not send any money, as legitimate lotteries never require winners to pay upfront fees to receive a prize. Report the scam to the FTC at reportfraud.ftc.gov.",
       "source_date": "2026-07",
+      "active": true
+    },
+    {
+      "id": "class-action-lawsuit-scam",
+      "name": "Fake Class Action Settlement Scam",
+      "category": "Other",
+      "summary": "Fraudsters send fake emails, letters, or text messages claiming the recipient is eligible for a large payout from a class-action settlement, but must pay an upfront fee or provide sensitive data to claim it.",
+      "red_flags": [
+        "Requests for an upfront fee or processing payment to receive your settlement money",
+        "Demands for highly sensitive personal data like your Social Security number or bank account details",
+        "High-pressure deadlines urging immediate action to claim the funds"
+      ],
+      "what_to_do": "Never pay a fee to receive a settlement, as legitimate class-action payouts never require upfront money. Verify the lawsuit's legitimacy on official court websites or report it to the FTC at ReportFraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "toll-road-text-scam",
+      "name": "Fake Toll Road Collection Scam",
+      "category": "Government",
+      "summary": "Seniors receive urgent text messages claiming they have unpaid toll road fees that will result in late fines or court dates if not paid immediately through a provided link.",
+      "red_flags": [
+        "Text messages claiming you owe money for toll roads you may not have even traveled on",
+        "Links that direct you to a non-governmental website to make a payment",
+        "Threats of immediate late fees or legal action if you do not pay right away"
+      ],
+      "what_to_do": "Do not click on any links in the text message; instead, check your toll account directly through the official state toll authority website. Report the text to the FBI's Internet Crime Complaint Center (IC3) at ic3.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "recovery-scam",
+      "name": "Fraud Victim Money Recovery Scam",
+      "category": "Other",
+      "summary": "Scammers target seniors who have already lost money to a previous scam, posing as government officials or private investigators who promise to recover the stolen funds for an upfront fee.",
+      "red_flags": [
+        "Someone contacting you out of the blue claiming they can retrieve money you previously lost to fraud",
+        "Demands for upfront fees, retainer costs, or taxes before they can release your recovered money",
+        "Requests to pay via untraceable methods like cryptocurrency, wire transfers, or gift cards"
+      ],
+      "what_to_do": "Hang up or delete the message, as legitimate law enforcement and government agencies do not charge fees to recover stolen funds. Report the contact to the FTC at ReportFraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "medicare-card-upgrade-scam",
+      "name": "Medicare Plastic Card Upgrade Scam",
+      "category": "Medicare",
+      "summary": "Fraudsters call seniors claiming that Medicare is issuing new plastic or metal cards with microchips, demanding personal information or a processing fee to issue the new card.",
+      "red_flags": [
+        "Unsolicited calls from someone claiming to represent Medicare or the government",
+        "Requests for your Medicare number, Social Security number, or bank account information to verify your identity",
+        "Claims that your current paper Medicare card is expiring or will be deactivated"
+      ],
+      "what_to_do": "Hang up immediately, as Medicare does not make unsolicited calls and will never charge for a replacement card. Report the call to Medicare at 1-800-MEDICARE (1-800-633-4227).",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "pig-butchering-romance-scam",
+      "name": "Crypto Romance Investment Scam",
+      "category": "Romance",
+      "summary": "Scammers build fake romantic relationships with seniors online over several weeks, eventually introducing a lucrative cryptocurrency investment opportunity and stealing their retirement savings.",
+      "red_flags": [
+        "An online romantic interest who quickly professes love but always has excuses for why they cannot meet in person or video chat",
+        "Pressure to invest in cryptocurrency or use a specific, unfamiliar trading platform they recommend",
+        "Fabricated account dashboards showing massive, unrealistic investment profits that you cannot withdraw"
+      ],
+      "what_to_do": "Stop all contact with the individual and never send money or invest based on advice from someone you have only met online. Report the scam to the FBI's IC3 at ic3.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "irs-elder-fraud-scheme",
+      "name": "IRS Tax Debt Impersonation Scam",
+      "category": "IRS",
+      "summary": "Fraudsters contact retirees claiming they owe back taxes or made an error on their tax return, threatening arrest or asset seizure if they do not pay immediately.",
+      "red_flags": [
+        "Unsolicited phone calls or emails from someone claiming to be from the IRS demanding immediate payment",
+        "Threats of local law enforcement arrest, deportation, or driver's license suspension",
+        "Demands for payment via prepaid debit cards, gift cards, wire transfers, or cryptocurrency"
+      ],
+      "what_to_do": "Hang up and contact the IRS directly at 1-800-829-1040 to verify your tax status. Report the scam to the Treasury Inspector General for Tax Administration (TIGTA) at taxoutreach@tigta.treas.gov.",
+      "source_date": "2026-08",
       "active": true
     }
   ]
