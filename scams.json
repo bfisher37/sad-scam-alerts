@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02",
+  "updated": "2026-08-09",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1120,6 +1120,63 @@
         "Demands for payment via prepaid debit cards, gift cards, wire transfers, or cryptocurrency"
       ],
       "what_to_do": "Hang up and contact the IRS directly at 1-800-829-1040 to verify your tax status. Report the scam to the Treasury Inspector General for Tax Administration (TIGTA) at taxoutreach@tigta.treas.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "gold-bar-delivery-scam",
+      "name": "Gold Bar Delivery Scam",
+      "category": "Other",
+      "summary": "Scammers contact victims via fake computer pop-ups or phone calls claiming their bank accounts are compromised. They instruct the victim to purchase physical gold bars and hand them over to a courier or federal agent for safekeeping.",
+      "red_flags": [
+        "Instructions to withdraw large sums of cash to purchase physical gold",
+        "Demands to hand over gold bars to a courier sent to your home",
+        "Claims from supposed law enforcement that your bank account is compromised",
+        "Pressure to keep the transaction completely secret from family and bank staff"
+      ],
+      "what_to_do": "Hang up immediately, do not purchase gold, and report the incident to the FBI's Internet Crime Complaint Center at ic3.gov and your local police.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "government-imposter-phone-scam",
+      "name": "Government Imposter Phone Scam",
+      "category": "Government",
+      "summary": "Fraudsters impersonate officials from agencies like the FCC, FTC, or FBI, using spoofed caller IDs and real employee names. They claim the victim owes a fine or is under investigation, demanding payment through cash apps, cryptocurrency, or gift cards.",
+      "red_flags": [
+        "Calls or texts from government agencies demanding immediate payment of fines",
+        "Demands for payment via cryptocurrency, cash apps, gift cards, or wire transfers",
+        "Threats of immediate arrest or suspension of government benefits"
+      ],
+      "what_to_do": "Hang up immediately, as real government agencies will never call to demand payment or threaten you, and report the call to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "fraud-recovery-and-refund-scam",
+      "name": "Fraud Recovery and Refund Scam",
+      "category": "Other",
+      "summary": "Scammers target individuals who have already lost money to a previous scam, posing as government officials, law firms, or recovery experts. They claim they can retrieve the stolen funds in exchange for an upfront processing or retainer fee.",
+      "red_flags": [
+        "Unsolicited contact from someone claiming they can recover your lost money",
+        "Demands for upfront fees, taxes, or retainer costs before releasing recovered funds",
+        "Requests for your Social Security number or bank details to deposit a refund"
+      ],
+      "what_to_do": "Do not pay any upfront fees to recover lost money, verify any claims with the official agency directly, and report the contact to the FBI's IC3 at ic3.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "romance-baited-crypto-investment-scam",
+      "name": "Romance Baited Crypto Investment Scam",
+      "category": "Romance",
+      "summary": "Scammers build fake romantic relationships with seniors online through dating apps or social media, gaining their trust over weeks or months. They then introduce a guaranteed cryptocurrency investment opportunity, convincing the victim to transfer their retirement savings to a fraudulent platform.",
+      "red_flags": [
+        "An online romantic partner who quickly professes love but refuses to meet in person",
+        "Frequent discussions about lucrative, low-risk cryptocurrency or investment opportunities",
+        "Pressure to transfer money to a specific, unfamiliar investment website or app"
+      ],
+      "what_to_do": "Never send money or invest based on advice from someone you have only met online, and report romance scams to the FTC at reportfraud.ftc.gov.",
       "source_date": "2026-08",
       "active": true
     }
