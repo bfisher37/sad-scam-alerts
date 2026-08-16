@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09",
+  "updated": "2026-08-16",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1177,6 +1177,62 @@
         "Pressure to transfer money to a specific, unfamiliar investment website or app"
       ],
       "what_to_do": "Never send money or invest based on advice from someone you have only met online, and report romance scams to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "irs-tax-debt-refund-scam",
+      "name": "IRS Tax Debt Refund Scam",
+      "category": "IRS",
+      "summary": "Scammers contact seniors pretending to be IRS agents, either demanding immediate payment for a fake outstanding tax debt or offering a fraudulent tax refund in exchange for personal banking details.",
+      "red_flags": [
+        "An unsolicited call or email from someone claiming to be from the IRS demanding immediate tax payment",
+        "Threats of bringing in local police or immigration officers to arrest you if you do not pay",
+        "A request for payment through unusual methods like gift cards, wire transfers, or digital payment apps"
+      ],
+      "what_to_do": "Hang up and check your tax status directly on the official IRS website or by calling the IRS. Report tax-related scams to the Treasury Inspector General for Tax Administration at tigta.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "pig-butchering-investment-scam",
+      "name": "Pig Butchering Investment Scam",
+      "category": "Romance",
+      "summary": "Scammers build long-term romantic or friendly relationships with seniors online before gradually steering them toward investing their retirement savings into fraudulent cryptocurrency or trading platforms.",
+      "red_flags": [
+        "An unsolicited text message from a stranger claiming they texted the wrong number, leading to a friendly conversation",
+        "A rapid escalation of romantic or close personal interest without ever meeting in person",
+        "Repeated suggestions to invest in a specific cryptocurrency platform or high-yield investment opportunity"
+      ],
+      "what_to_do": "Never send money or invest based on advice from someone you have only met online. Report the scam to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "scam-victim-recovery-scam",
+      "name": "Scam Victim Recovery Scam",
+      "category": "Other",
+      "summary": "Fraudsters target seniors who have already lost money to a previous scam, posing as government agents, lawyers, or recovery specialists who promise to retrieve the stolen funds for an upfront fee.",
+      "red_flags": [
+        "An unsolicited contact from someone claiming they can recover money you previously lost to a scam",
+        "A demand for an upfront fee, tax, or deposit before they can release your recovered funds",
+        "The use of official-sounding titles, fake badges, or credentials to build trust"
+      ],
+      "what_to_do": "Do not pay any upfront fees to recover lost money, as legitimate law enforcement and government agencies never charge for investigations or recovery. Report these attempts to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "missed-jury-duty-warrant-scam",
+      "name": "Missed Jury Duty Warrant Scam",
+      "category": "Government",
+      "summary": "Scammers pose as local law enforcement or court officials, calling seniors to claim they missed a jury duty summons and must pay a fine immediately to avoid arrest.",
+      "red_flags": [
+        "An unexpected phone call claiming you missed jury duty and a warrant has been issued for your arrest",
+        "A demand to pay a fine immediately over the phone using gift cards, prepaid cards, or wire transfers",
+        "Pressure to stay on the phone while you go to a store to purchase payment cards"
+      ],
+      "what_to_do": "Hang up immediately and call your local courthouse directly using a number from their official website to verify your status. Report the call to your local sheriff's department and the FTC at reportfraud.ftc.gov.",
       "source_date": "2026-08",
       "active": true
     }
