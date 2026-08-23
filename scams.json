@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16",
+  "updated": "2026-08-23",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1233,6 +1233,104 @@
         "Pressure to stay on the phone while you go to a store to purchase payment cards"
       ],
       "what_to_do": "Hang up immediately and call your local courthouse directly using a number from their official website to verify your status. Report the call to your local sheriff's department and the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "gold-bar-courier-scam",
+      "name": "Gold Bar Courier Scam",
+      "category": "Other",
+      "summary": "Scammers contact victims via fake computer pop-ups or phone calls posing as federal agents, claiming their bank accounts are compromised. They instruct the victim to liquidate their savings, purchase physical gold bars, and hand them over to a courier for safekeeping.",
+      "red_flags": [
+        "Instructions to buy physical gold bars or precious metals to protect your life savings",
+        "Demands to keep the transaction a secret from bank employees and family members",
+        "Arranging for a courier to meet you in person or come to your home to collect the gold"
+      ],
+      "what_to_do": "Immediately hang up and do not buy gold or meet any couriers. Report the incident to your local police department and the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "government-imposter-scam",
+      "name": "Government Imposter Scam",
+      "category": "Government",
+      "summary": "Scammers pretend to be employees of the Federal Communications Commission or other federal agencies, claiming the victim's phone number or identity is linked to criminal activity. They threaten to suspend benefits or arrest the victim unless they pay immediately.",
+      "red_flags": [
+        "Unsolicited calls or texts from someone claiming to be with the FCC, FTC, or other government agency",
+        "Threats of immediate arrest, legal action, or suspension of government benefits",
+        "Demands for payment using untraceable methods like cash apps, cryptocurrency, or gift cards"
+      ],
+      "what_to_do": "Hang up immediately, as legitimate government agencies will never call to demand payment or threaten arrest. Report the call to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "medicare-card-hospice-fraud",
+      "name": "Medicare Card and Hospice Fraud",
+      "category": "Medicare",
+      "summary": "Scammers call seniors offering free medical equipment, genetic testing, or a new plastic Medicare card to steal their Medicare number. Once they obtain the number, they fraudulently bill Medicare for services or enroll the victim in unauthorized hospice care.",
+      "red_flags": [
+        "Unsolicited calls offering free back braces, genetic testing kits, or a new Medicare card",
+        "Demands to verify or provide your Medicare number over the phone to keep your benefits active",
+        "Offers of medical services or equipment that your primary doctor did not prescribe"
+      ],
+      "what_to_do": "Never give your Medicare number to anyone who contacts you unsolicited. Report suspected Medicare fraud to the Senior Medicare Patrol at 1-877-808-2468 or smpresource.org.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "double-dip-recovery-scam",
+      "name": "Double Dip Recovery Scam",
+      "category": "Other",
+      "summary": "Fraudsters target seniors who have already lost money to a previous scam, posing as recovery specialists, private investigators, or government agents. They promise to retrieve the stolen funds in exchange for an upfront fee or tax.",
+      "red_flags": [
+        "An unexpected contact from someone claiming they can recover money you previously lost to scammers",
+        "A requirement to pay an upfront fee, processing fee, or tax before they can return your funds",
+        "Posing as a government official from the FTC or FBI who needs your bank details to deposit recovered money"
+      ],
+      "what_to_do": "Do not pay any upfront fees to recover lost money, as legitimate law enforcement and government agencies never charge for this service. Report recovery scams to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "fake-1098-sr-property-tax-scam",
+      "name": "Fake Form 1098-SR Property Tax Scam",
+      "category": "IRS",
+      "summary": "Fraudulent online posts, social media videos, and scam calls target seniors with claims of a non-existent federal program that freezes property taxes. Scammers instruct victims to file a fake IRS form called 1098-SR to steal their personal identification and financial information.",
+      "red_flags": [
+        "Claims of a federal program or IRS form that can freeze or reduce local property taxes for seniors",
+        "Instructions to fill out or pay a fee to process a Form 1098-SR",
+        "Unsolicited calls or messages from people claiming to represent the county assessor or tax collector asking for personal details"
+      ],
+      "what_to_do": "Do not share any personal or financial information, as property taxes are managed locally and no federal Form 1098-SR exists. Verify any tax relief programs directly with your local county assessor's office.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "social-security-cola-hijack-scam",
+      "name": "Social Security COLA Hijack Scam",
+      "category": "Social Security",
+      "summary": "Scammers contact seniors claiming they must verify their personal details or fill out a form to receive their annual Cost-of-Living Adjustment increase. Once they obtain the information, they log into the victim's My Social Security account and redirect their direct deposit benefits to a fraudulent account.",
+      "red_flags": [
+        "Unsolicited calls or emails claiming you must take action to receive your annual COLA increase",
+        "Demands for your Social Security number, date of birth, or bank account details to verify your benefits",
+        "Pressure to act quickly or risk losing your monthly benefit payments"
+      ],
+      "what_to_do": "Hang up immediately and remember that COLA increases are applied automatically without any action required. Report the scam to the Social Security Administration's Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "crypto-pig-butchering-scam",
+      "name": "Crypto Pig Butchering Scam",
+      "category": "Romance",
+      "summary": "Scammers build long-term romantic relationships with seniors online through dating apps or social media, establishing deep trust over weeks or months. Once trust is established, they manipulate the victim into investing their life savings into a fraudulent cryptocurrency platform.",
+      "red_flags": [
+        "An online love interest who quickly moves the conversation off the dating app to a private messaging service",
+        "Frequent excuses for why they cannot meet in person or video call",
+        "Unsolicited advice or pressure to invest in a specific cryptocurrency platform or app"
+      ],
+      "what_to_do": "Never send money or invest in platforms recommended by someone you have only met online. Report romance and investment scams to the FBI's Internet Crime Complaint Center at ic3.gov.",
       "source_date": "2026-08",
       "active": true
     }
