@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-30",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1331,6 +1331,62 @@
         "Unsolicited advice or pressure to invest in a specific cryptocurrency platform or app"
       ],
       "what_to_do": "Never send money or invest in platforms recommended by someone you have only met online. Report romance and investment scams to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "medicare-card-and-hospice-fraud",
+      "name": "Medicare Card and Hospice Fraud",
+      "category": "Medicare",
+      "summary": "Fraudsters call seniors offering new plastic or chip-embedded Medicare cards, or free medical equipment, in order to steal their Medicare numbers. They then use these numbers to submit fraudulent bills to Medicare for services or hospice care never received.",
+      "red_flags": [
+        "Unsolicited calls offering a new plastic or metal Medicare card",
+        "Requests to verify or provide your Medicare number to receive free medical supplies",
+        "Offers of free genetic testing or health screenings that require your Medicare details"
+      ],
+      "what_to_do": "Never give your Medicare number to unsolicited callers and check your Medicare Summary Notices regularly for unauthorized charges. Report suspected fraud to the Senior Medicare Patrol at 1-877-808-2468.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "tech-support-pop-up-scam",
+      "name": "Tech Support Pop Up Scam",
+      "category": "Tech Support",
+      "summary": "Seniors receive alarming pop-up alerts on their computers claiming their device is locked due to a virus or security breach. The message directs them to call a toll-free number where scammers pose as technicians to gain remote access and charge high fees.",
+      "red_flags": [
+        "A sudden full-screen pop-up warning that your computer is infected and cannot be closed",
+        "An urgent prompt to call a specific phone number to resolve a security threat",
+        "Demands for remote access to your computer or payment via gift cards and cryptocurrency"
+      ],
+      "what_to_do": "Do not call the number or allow remote access; instead, restart your computer or seek help from a trusted local technician. Report tech support scams to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "social-security-benefit-suspension-scam",
+      "name": "Social Security Benefit Suspension Scam",
+      "category": "Social Security",
+      "summary": "Fraudsters contact retirees claiming their Social Security number has been suspended due to suspicious activity or unpaid taxes. They threaten to cut off monthly benefits permanently unless the victim verifies their personal details and pays a fee.",
+      "red_flags": [
+        "Unsolicited calls or texts claiming your Social Security number has been suspended",
+        "Threats that your monthly retirement benefits will be immediately terminated",
+        "Demands for personal information or payment to reactivate your account"
+      ],
+      "what_to_do": "Hang up and do not provide any personal information, as the Social Security Administration will never threaten to suspend your number. Report the scam to the SSA Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "ai-driven-romance-investment-scam",
+      "name": "AI Driven Romance Investment Scam",
+      "category": "Romance",
+      "summary": "Scammers use AI-generated profile photos and deepfake videos to build trust with seniors on dating apps or social media. Once a romantic connection is established, they manipulate the victim into investing their retirement savings into fraudulent cryptocurrency platforms.",
+      "red_flags": [
+        "An online love interest who quickly professes deep affection but refuses to meet in person or on live video",
+        "Attempts to move the conversation off the dating platform to private messaging apps",
+        "Requests for money to help with a sudden emergency or invitations to invest in cryptocurrency"
+      ],
+      "what_to_do": "Never send money or invest based on advice from someone you have only met online. Report romance scams to the FTC at reportfraud.ftc.gov and the FBI's Internet Crime Complaint Center at ic3.gov.",
       "source_date": "2026-08",
       "active": true
     }
