@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-09-06",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1388,6 +1388,90 @@
       ],
       "what_to_do": "Never send money or invest based on advice from someone you have only met online. Report romance scams to the FTC at reportfraud.ftc.gov and the FBI's Internet Crime Complaint Center at ic3.gov.",
       "source_date": "2026-08",
+      "active": true
+    },
+    {
+      "id": "medicare-hospice-equipment-fraud",
+      "name": "Medicare Hospice and Equipment Fraud",
+      "category": "Medicare",
+      "summary": "Fraudsters contact seniors posing as Medicare representatives to offer free medical equipment or sign them up for fake plans. Their goal is to steal Medicare numbers to commit fraudulent billing.",
+      "red_flags": [
+        "Unsolicited calls or messages offering free medical supplies or services",
+        "Requests to confirm or provide your Medicare number to receive benefits",
+        "Offers of fake Medicare drug plans or back braces you do not need"
+      ],
+      "what_to_do": "Never give your Medicare number to unsolicited callers and review your Medicare statements regularly for unauthorized charges. Report suspected fraud to Medicare at 1-800-MEDICARE or the Senior Medicare Patrol.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "social-security-impersonation-threat",
+      "name": "Social Security Impersonation Threat",
+      "category": "Social Security",
+      "summary": "Scammers call or text seniors pretending to be Social Security Administration officials, claiming their benefits will be suspended due to suspicious activity. They demand immediate payment or personal information to resolve the issue.",
+      "red_flags": [
+        "Threats of immediate arrest, legal action, or benefit suspension",
+        "Demands for payment via gift cards, wire transfers, or cryptocurrency to resolve the issue",
+        "Unsolicited contact asking you to verify your Social Security number over the phone"
+      ],
+      "what_to_do": "Hang up immediately, as the Social Security Administration will never threaten you or demand immediate payment. Report the scam to the SSA Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "gold-bitcoin-government-imposter-scam",
+      "name": "Gold and Bitcoin Government Imposter",
+      "category": "Government",
+      "summary": "Fraudsters posing as federal agents or bank officials convince seniors that their bank accounts are compromised. They instruct the victims to withdraw cash to purchase gold or Bitcoin for safekeeping.",
+      "red_flags": [
+        "Claims from supposed government officials that your bank account is under threat",
+        "Instructions to withdraw large sums of cash, buy gold, or deposit money into a cryptocurrency ATM",
+        "Demands to keep the transaction completely secret from bank employees and family"
+      ],
+      "what_to_do": "Hang up and contact your bank directly using the number on your official statement. Report the incident to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "ai-romance-pig-butchering-scam",
+      "name": "AI Romance Pig Butchering Scam",
+      "category": "Romance",
+      "summary": "Scammers use AI-generated profiles and deepfake videos to build trust with seniors online through fake romantic relationships. They eventually steer the victims into fraudulent cryptocurrency or investment platforms.",
+      "red_flags": [
+        "Quick professions of love or deep connection from someone you have never met in person",
+        "Excuses to avoid video calls or in-person meetings, or using highly realistic but scripted video clips",
+        "Pressure to invest in cryptocurrency or specific financial platforms with guaranteed high returns"
+      ],
+      "what_to_do": "Stop all contact immediately and do not send money or invest based on advice from online acquaintances. Report the scam to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "tech-support-popup-scam",
+      "name": "Tech Support Pop Up Scam",
+      "category": "Tech Support",
+      "summary": "Seniors see fake security alerts on their computer screens claiming their device is infected with malware. The pop-ups urge them to call a toll-free number where scammers demand payment or remote access to fix the issue.",
+      "red_flags": [
+        "Sudden, loud, or flashing pop-up warnings on your computer screen that block you from closing the browser",
+        "Demands to call a specific phone number immediately to prevent data loss or legal action",
+        "Requests to download remote desktop software to allow a technician to access your computer"
+      ],
+      "what_to_do": "Do not call the number on the screen; instead, restart your computer or close the browser. Report the scam to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "irs-tax-refund-arrest-threat",
+      "name": "IRS Tax Refund Arrest Threat",
+      "category": "IRS",
+      "summary": "Scammers contact seniors claiming they owe back taxes or have committed tax fraud, threatening immediate arrest or deportation. They demand immediate payment via untraceable methods to settle the debt.",
+      "red_flags": [
+        "Unsolicited calls, emails, or text messages claiming to be from the IRS",
+        "Threats of immediate arrest, law enforcement action, or asset seizure",
+        "Demands for immediate payment using gift cards, prepaid debit cards, or wire transfers"
+      ],
+      "what_to_do": "Hang up immediately and contact the IRS directly at 1-800-829-1040 to verify your tax status. Report the scam to the Treasury Inspector General for Tax Administration (TIGTA) at tigta.gov.",
+      "source_date": "2026-09",
       "active": true
     }
   ]
