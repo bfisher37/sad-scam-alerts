@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1471,6 +1471,76 @@
         "Demands for immediate payment using gift cards, prepaid debit cards, or wire transfers"
       ],
       "what_to_do": "Hang up immediately and contact the IRS directly at 1-800-829-1040 to verify your tax status. Report the scam to the Treasury Inspector General for Tax Administration (TIGTA) at tigta.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "medicare-card-and-benefit-scam",
+      "name": "Medicare Card and Benefit Scam",
+      "category": "Medicare",
+      "summary": "Fraudsters call seniors claiming they need to issue a new plastic or chip-embedded Medicare card to prevent a lapse in coverage. They use this trick to steal the victim's Medicare number and submit fraudulent medical bills.",
+      "red_flags": [
+        "Unsolicited calls claiming Medicare is issuing new plastic or chip-enabled cards",
+        "Demands for your Medicare number or personal details to keep your benefits active",
+        "Threats that your healthcare coverage will be canceled if you do not comply"
+      ],
+      "what_to_do": "Hang up and call 1-800-MEDICARE to verify any claims about your account. Report the incident to the Senior Medicare Patrol or the Federal Trade Commission.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "phantom-hacker-bank-transfer-scam",
+      "name": "Phantom Hacker Bank Transfer Scam",
+      "category": "Tech Support",
+      "summary": "This multi-phase scam begins with fake tech support claiming a computer is hacked, followed by fake bank and government agents instructing the victim to move their funds to a safe account. In reality, the scammers control the destination account and drain the victim's life savings.",
+      "red_flags": [
+        "Unsolicited pop-ups or calls claiming your computer or bank account is compromised",
+        "Instructions to download remote access software to secure your device",
+        "Demands to transfer money to a safe government or bank account to protect it"
+      ],
+      "what_to_do": "Never download remote access software or transfer money based on unsolicited calls. Hang up and contact your financial institution directly using the number on your official statement, then report it to the FBI's Internet Crime Complaint Center.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "irs-tax-debt-and-arrest-scam",
+      "name": "IRS Tax Debt and Arrest Scam",
+      "category": "IRS",
+      "summary": "Fraudsters pose as IRS agents calling to demand immediate payment for unpaid taxes, threatening arrest, deportation, or driver's license suspension. They pressure victims to pay immediately using gift cards, prepaid debit cards, or wire transfers.",
+      "red_flags": [
+        "Unsolicited phone calls from someone claiming to be from the IRS demanding immediate payment",
+        "Threats of immediate arrest, deportation, or law enforcement action",
+        "Demands for payment via gift cards, prepaid debit cards, wire transfers, or cryptocurrency"
+      ],
+      "what_to_do": "Hang up immediately, as the IRS will never call to demand immediate payment without first mailing a bill. Report the call to the Treasury Inspector General for Tax Administration and the Federal Trade Commission.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "online-romance-and-pig-butchering-scam",
+      "name": "Online Romance and Pig Butchering Scam",
+      "category": "Romance",
+      "summary": "Scammers build long-term online relationships with seniors on social media or dating apps to gain their trust before asking for money. They often fabricate emergencies or convince the victim to invest in fraudulent cryptocurrency platforms.",
+      "red_flags": [
+        "An online love interest who quickly professes deep affection but always has excuses for why they cannot meet in person",
+        "Requests for financial help due to a sudden emergency, medical crisis, or travel expense",
+        "Pressure to invest in a guaranteed cryptocurrency or investment platform they recommend"
+      ],
+      "what_to_do": "Never send money, cryptocurrency, or financial details to someone you have only met online. Report romance scams to the Federal Trade Commission at reportfraud.ftc.gov and the FBI's Internet Crime Complaint Center.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "publishers-clearing-house-sweepstakes-scam",
+      "name": "Publishers Clearing House Sweepstakes Scam",
+      "category": "Lottery",
+      "summary": "Scammers contact seniors claiming they have won a major lottery or sweepstakes, such as Publishers Clearing House, but must pay upfront fees or taxes to release the prize. Once the money is sent, the scammers disappear or demand more fees.",
+      "red_flags": [
+        "Unsolicited notifications claiming you won a lottery or sweepstakes you never entered",
+        "Demands to pay upfront fees, taxes, or processing costs before you can receive your prize",
+        "Requests for payment via untraceable methods like gift cards, wire transfers, or cash couriers"
+      ],
+      "what_to_do": "Hang up or delete the message, as legitimate sweepstakes will never ask you to pay money to claim a prize. Report the scam to the Federal Trade Commission and the U.S. Postal Inspection Service.",
       "source_date": "2026-09",
       "active": true
     }
