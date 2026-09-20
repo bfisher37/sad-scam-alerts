@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-20",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1541,6 +1541,90 @@
         "Requests for payment via untraceable methods like gift cards, wire transfers, or cash couriers"
       ],
       "what_to_do": "Hang up or delete the message, as legitimate sweepstakes will never ask you to pay money to claim a prize. Report the scam to the Federal Trade Commission and the U.S. Postal Inspection Service.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "phantom-hacker-retirement-scam",
+      "name": "Phantom Hacker Retirement Account Scam",
+      "category": "Tech Support",
+      "summary": "This multi-phase scam involves fraudsters posing as tech support, bank employees, and government agents to convince retirees their accounts are compromised. They pressure victims into transferring their life savings into a safe government-protected account that is actually controlled by the scammers.",
+      "red_flags": [
+        "An unsolicited pop-up, text, or call warning that your computer or bank account is hacked",
+        "Coordinated calls from different people claiming to be tech support, bank fraud departments, and government officials",
+        "Instructions to move your money or retirement funds to a new, external account for protection"
+      ],
+      "what_to_do": "Never download remote access software or transfer funds based on unsolicited calls. Contact your financial institution directly using the number on your official statement, and report the scam to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "fake-social-security-statement-emails",
+      "name": "Fake Social Security Statement Emails",
+      "category": "Social Security",
+      "summary": "Seniors receive highly realistic emails claiming their annual Social Security statement is ready to download. Clicking the link takes the victim to a spoofed website designed to harvest their Social Security number and personal details.",
+      "red_flags": [
+        "An unexpected email with official-looking logos claiming your Social Security statement is ready",
+        "Links or attachments in the email that direct you to external, non-government websites",
+        "Urgent language warning that your benefits will be suspended if you do not log in immediately"
+      ],
+      "what_to_do": "Do not click any links or download attachments from the email. Go directly to the official ssa.gov website to log into your account, and report the email to the Social Security Administration OIG at oig.ssa.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "new-medicare-card-activation-scam",
+      "name": "New Medicare Card Activation Scam",
+      "category": "Medicare",
+      "summary": "Following recent data breaches and official card reissuances, scammers call seniors claiming they must pay a fee or verify personal details to activate a new Medicare card. They use this trick to steal Medicare numbers and identity information.",
+      "red_flags": [
+        "An unsolicited call or message claiming you must activate your new Medicare card",
+        "A demand for payment, processing fees, or bank information to issue or activate a card",
+        "Requests for your Social Security number or Medicare Beneficiary Identifier over the phone"
+      ],
+      "what_to_do": "Hang up immediately, as official Medicare cards do not require activation and are sent free of charge. Verify your card's status by calling 1-800-MEDICARE or logging into medicare.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "obbb-tax-deduction-for-seniors-scam",
+      "name": "OBBB Senior Tax Deduction Scam",
+      "category": "IRS",
+      "summary": "Scammers exploit confusion over new tax laws, such as the One, Big, Beautiful Bill (OBBB), by offering fake enrollment services for senior tax deductions. They target older adults to steal personal information or charge upfront registration fees.",
+      "red_flags": [
+        "Unsolicited calls, texts, or emails claiming you must enroll or register to receive a senior tax deduction",
+        "Demands for upfront fees or personal financial information to secure your tax benefits",
+        "Unethical tax preparers promising unusually large refunds without signing the return"
+      ],
+      "what_to_do": "Ignore any unsolicited offers to enroll you in tax programs, as legitimate deductions are claimed directly on your tax return. Report tax-related scams to the Treasury Inspector General for Tax Administration (TIGTA) at tigta.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "international-lottery-fees-scam",
+      "name": "International Lottery and Sweepstakes Scam",
+      "category": "Lottery",
+      "summary": "Seniors are contacted by phone, mail, or email and told they have won a major international lottery or sweepstakes. To collect the prize, they are instructed to pay upfront taxes, customs duties, or processing fees.",
+      "red_flags": [
+        "A notification that you won a lottery or sweepstakes you never entered",
+        "A requirement to pay upfront fees, taxes, or processing charges to release your winnings",
+        "Pressure to send money quickly via wire transfer, gift cards, or cryptocurrency"
+      ],
+      "what_to_do": "Never send money or personal information to claim a prize, as legitimate lotteries never require upfront payments. Report these scams to the Federal Trade Commission at reportfraud.ftc.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "online-romance-cryptocurrency-investment-scam",
+      "name": "Romance and Crypto Investment Scam",
+      "category": "Romance",
+      "summary": "Scammers build long-term romantic relationships with seniors online through dating apps or social media. Once trust is established, they fabricate an emergency or convince the victim to invest their retirement savings in a fraudulent cryptocurrency platform.",
+      "red_flags": [
+        "An online love interest who quickly professes deep affection but always makes excuses to avoid meeting in person",
+        "Requests for money to help with a sudden emergency, medical bill, or travel expense",
+        "Strong encouragement to invest in a specific cryptocurrency website or app that they recommend"
+      ],
+      "what_to_do": "Never send money, buy gift cards, or invest in cryptocurrency based on the advice of someone you have only met online. Report the scammer to the FBI's Internet Crime Complaint Center at ic3.gov.",
       "source_date": "2026-09",
       "active": true
     }
