@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-27",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1625,6 +1625,76 @@
         "Strong encouragement to invest in a specific cryptocurrency website or app that they recommend"
       ],
       "what_to_do": "Never send money, buy gift cards, or invest in cryptocurrency based on the advice of someone you have only met online. Report the scammer to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "fake-medicare-card-update-scam",
+      "name": "Fake Medicare Card Update Scam",
+      "category": "Medicare",
+      "summary": "Fraudsters contact seniors claiming they need to issue a new Medicare card, confirm personal details to keep benefits active, or update their account. They use this trick to steal Medicare numbers for identity theft or fraudulent billing.",
+      "red_flags": [
+        "Unsolicited calls, texts, or emails claiming to be from Medicare",
+        "Requests for your Medicare number or other sensitive personal information to update your account",
+        "Threats that your health benefits will be suspended if you do not comply"
+      ],
+      "what_to_do": "Never give your Medicare number to unsolicited callers; Medicare will never call you unexpectedly. Report the incident to Medicare at 1-800-MEDICARE or the FTC.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "tech-support-bank-protection-scam",
+      "name": "Tech Support Bank Protection Scam",
+      "category": "Tech Support",
+      "summary": "Scammers use fake computer pop-ups warning of a virus and instructing the victim to call a support number. Once on the phone, they claim the victim's bank accounts are also compromised and instruct them to transfer funds to a safe government account.",
+      "red_flags": [
+        "Unexpected pop-up warnings on your computer screen instructing you to call a specific phone number",
+        "A support agent requesting remote access to your computer or device",
+        "Instructions to transfer money or buy gift cards to protect your bank or retirement funds"
+      ],
+      "what_to_do": "Close the pop-up window, restart your computer, and never grant remote access to unsolicited callers. Report tech support scams to the FTC at reportfraud.ftc.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "government-impersonation-gold-bar-scam",
+      "name": "Government Impersonation Gold Bar Scam",
+      "category": "Government",
+      "summary": "Scammers posing as federal agents or bank officials convince seniors that their bank accounts are compromised. They instruct the victim to withdraw their savings, purchase physical gold bars, and hand them over to a courier for safekeeping.",
+      "red_flags": [
+        "A caller claiming to be a federal agent or bank investigator warning that your funds are unsafe",
+        "Instructions to withdraw large sums of cash, buy gold bars, or purchase cryptocurrency",
+        "An arrangement to have a courier meet you in person to collect the assets"
+      ],
+      "what_to_do": "Hang up immediately and contact your bank directly using the number on your bank statement. Report the scam to the FBI's Internet Crime Complaint Center (IC3) at ic3.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "pig-butchering-crypto-romance-scam",
+      "name": "Pig Butchering Crypto Romance Scam",
+      "category": "Romance",
+      "summary": "Scammers build long-term romantic relationships with seniors online through social media or dating apps. Once trust is established, they gently steer the victim into investing their retirement savings into a fraudulent cryptocurrency platform.",
+      "red_flags": [
+        "An online romantic partner who quickly professes love but always makes excuses to avoid meeting in person",
+        "Frequent discussions about financial success and pressure to invest in cryptocurrency",
+        "Requests to transfer funds to a specific, unfamiliar investment website or app"
+      ],
+      "what_to_do": "Stop all contact with the individual and do not send any money or investment funds. Report the scam to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "fake-irs-tax-refund-scam",
+      "name": "Fake IRS Tax Refund Scam",
+      "category": "IRS",
+      "summary": "Fraudsters send emails or text messages claiming the senior is owed an unexpected tax refund or has an unpaid tax bill. They direct the victim to a fake website designed to harvest their Social Security number, banking details, and personal information.",
+      "red_flags": [
+        "Unsolicited emails or text messages claiming to be from the IRS regarding a refund or tax bill",
+        "Links directing you to a website to enter your Social Security number or banking credentials",
+        "Urgent demands to pay back taxes immediately to avoid legal action"
+      ],
+      "what_to_do": "Do not click on any links or reply to the message; the IRS does not initiate contact via text or email. Forward the phishing message to phishing@irs.gov and report it to the Treasury Inspector General for Tax Administration (TIGTA).",
       "source_date": "2026-09",
       "active": true
     }
