@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-10-04",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1696,6 +1696,48 @@
       ],
       "what_to_do": "Do not click on any links or reply to the message; the IRS does not initiate contact via text or email. Forward the phishing message to phishing@irs.gov and report it to the Treasury Inspector General for Tax Administration (TIGTA).",
       "source_date": "2026-09",
+      "active": true
+    },
+    {
+      "id": "medicare-grocery-allowance-scam",
+      "name": "Medicare Grocery Allowance Scam",
+      "category": "Medicare",
+      "summary": "Misleading television commercials, social media ads, and cold calls target seniors with promises of a free grocery allowance or flex cards worth hundreds of dollars. In reality, these are deceptive marketing schemes designed to trick seniors into switching their Medicare Advantage plans, often losing their trusted doctors and coverage.",
+      "red_flags": [
+        "Ads promising free money or grocery allowances from Medicare",
+        "High-pressure tactics to get you to change your current health insurance plan",
+        "Requests for your Medicare number to check your eligibility for grocery benefits"
+      ],
+      "what_to_do": "Ignore these ads and do not give out your Medicare number to unsolicited callers. Verify any plan changes directly with a trusted, licensed State Health Insurance Assistance Program counselor.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "cryptocurrency-investment-recovery-scam",
+      "name": "Cryptocurrency Investment Recovery Scam",
+      "category": "Other",
+      "summary": "After a senior loses money to an investment or romance scam, fraudulent recovery agents contact them online or via social media. They claim they can track and retrieve the lost cryptocurrency or funds for an upfront fee or by gaining remote access to the victim's accounts.",
+      "red_flags": [
+        "Unsolicited messages from recovery specialists claiming they can hack or retrieve lost funds",
+        "Demands for upfront fees, taxes, or retainer costs before any money is recovered",
+        "Requests for your bank login credentials or remote access to your computer"
+      ],
+      "what_to_do": "Do not pay any upfront fees, as legitimate law enforcement agencies do not charge to investigate crimes. Report recovery scams to the FBI's Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "romance-pig-butchering-scam",
+      "name": "Romance Pig Butchering Scam",
+      "category": "Romance",
+      "summary": "Scammers build long-term romantic relationships with seniors online through dating apps or social media. Once trust is established, they slowly introduce a guaranteed cryptocurrency or investment opportunity, eventually convincing the victim to transfer their life savings into a fraudulent platform.",
+      "red_flags": [
+        "An online romantic interest who quickly professes love but always has excuses not to meet in person",
+        "Conversations that shift from romance to financial advice, cryptocurrency, or investment opportunities",
+        "Pressure to deposit money into a specific, unfamiliar trading website or app"
+      ],
+      "what_to_do": "Never send money or invest based on advice from someone you have only met online. Report the scam immediately to the FTC at reportfraud.ftc.gov and the FBI's IC3 at ic3.gov.",
+      "source_date": "2026-10",
       "active": true
     }
   ]
