@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-11",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1737,6 +1737,62 @@
         "Pressure to deposit money into a specific, unfamiliar trading website or app"
       ],
       "what_to_do": "Never send money or invest based on advice from someone you have only met online. Report the scam immediately to the FTC at reportfraud.ftc.gov and the FBI's IC3 at ic3.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "medicare-flex-card-benefit-scam",
+      "name": "Medicare Flex Card Benefit Scam",
+      "category": "Medicare",
+      "summary": "Fraudsters call Medicare beneficiaries promising free flex cards loaded with thousands of dollars for groceries and healthcare expenses. They request Medicare numbers and banking information under the guise of verifying eligibility or sending new cards.",
+      "red_flags": [
+        "Unsolicited calls offering preloaded health spending cards",
+        "Requests for Medicare ID numbers or banking account details",
+        "Pressuring tactics claiming benefits will expire if you do not sign up immediately"
+      ],
+      "what_to_do": "Never share your Medicare number with unsolicited callers, as Medicare will not call to sell benefits or request card information. Report suspected Medicare fraud to 1-800-MEDICARE or the FTC.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "fake-tech-support-security-alert",
+      "name": "Fake Tech Support Security Alert",
+      "category": "Tech Support",
+      "summary": "Scammers generate pop-up screens on retirees' computers warning of severe virus infections or security breaches. The pop-ups instruct users to call a toll-free number where fraudsters ask for remote access to the computer and charge for fake repair services.",
+      "red_flags": [
+        "Unsolicited browser pop-ups warning that your computer is infected or locked",
+        "Callers or pop-ups requesting remote desktop access to your computer",
+        "Demands for immediate payment using bank transfers, gift cards, or cryptocurrency"
+      ],
+      "what_to_do": "Do not call the phone numbers shown on pop-up screens and restart your browser or computer to clear the message. Report tech support scams to the FBI Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "online-romance-financial-fraud-scam",
+      "name": "Online Romance Financial Fraud Scam",
+      "category": "Romance",
+      "summary": "Fraudsters create fake online profiles to form emotional connections with lonely or widowed seniors. After gaining trust, the scammer invents urgent personal emergencies requiring financial assistance or asks the victim to hold funds.",
+      "red_flags": [
+        "Online romantic partners who declare deep affection quickly but refuse video calls",
+        "Claims of living overseas or working in remote professions like offshore engineering",
+        "Urgent requests for financial help for medical care, travel, or custom fees"
+      ],
+      "what_to_do": "Stop communicating with the individual and run a reverse image search on their profile pictures. Report romance scams to reportfraud.ftc.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "publishers-clearing-house-lottery-scam",
+      "name": "Publishers Clearing House Lottery Scam",
+      "category": "Lottery",
+      "summary": "Con artists contact retirees claiming they have won a major sweepstakes or Publishers Clearing House prize jackpot. To collect the winnings, victims are instructed to pay upfront taxes, processing charges, or customs fees.",
+      "red_flags": [
+        "Claims that you won a lottery or sweepstakes you never entered",
+        "Demands to pay taxes or processing fees before receiving prize money",
+        "Requests for payment via wire transfer, gift cards, or cashier checks"
+      ],
+      "what_to_do": "Never pay money to claim a prize, as legitimate lotteries deduct taxes from winnings rather than demanding upfront payments. Report sweepstakes fraud to reportfraud.ftc.gov.",
       "source_date": "2026-10",
       "active": true
     }
