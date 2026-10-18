@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-18",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1793,6 +1793,48 @@
         "Requests for payment via wire transfer, gift cards, or cashier checks"
       ],
       "what_to_do": "Never pay money to claim a prize, as legitimate lotteries deduct taxes from winnings rather than demanding upfront payments. Report sweepstakes fraud to reportfraud.ftc.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "bank-government-fund-protection-scam",
+      "name": "Government Fund Safekeeping Scam",
+      "category": "Government",
+      "summary": "Impostors impersonating law enforcement or federal agents tell retirees their bank accounts are compromised by criminals. They convince victims to withdraw their savings and transfer funds or buy physical gold for official safekeeping.",
+      "red_flags": [
+        "Callers urging you to quickly liquidate retirement funds, buy gold, or transfer cash",
+        "Instructions to keep the financial investigation secret from bank tellers or family",
+        "Threats of immediate arrest or asset forfeiture if you do not cooperate"
+      ],
+      "what_to_do": "Hang up immediately and contact your bank or local police using verified, official phone numbers. Report government imposter fraud directly to the Federal Trade Commission at ReportFraud.ftc.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "social-security-suspension-threat-scam",
+      "name": "Social Security Number Suspension Scam",
+      "category": "Social Security",
+      "summary": "Callers pretend to be Social Security Administration officials claiming the recipient's Social Security number has been suspended due to illegal activity. They demand payment or sensitive verification details to reactivate the account.",
+      "red_flags": [
+        "Threats that benefit payments will be frozen or legal action will be taken",
+        "Demands for immediate payment using cryptocurrency, prepaid gift cards, or wire transfers",
+        "Caller ID displaying official government agency phone numbers"
+      ],
+      "what_to_do": "Hang up right away because the Social Security Administration never threatens benefits or demands instant payments. Report imposter calls to the SSA Office of the Inspector General at oig.ssa.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "pop-up-computer-lockout-scam",
+      "name": "Tech Support Computer Lockout Scam",
+      "category": "Tech Support",
+      "summary": "Fake pop-up alerts appear on computer screens claiming a severe virus infection and locking the browser. The notice instructs users to call a support hotline where scammers demand remote computer access and payment for repairs.",
+      "red_flags": [
+        "Unsolicited full-screen pop-ups with loud sirens or security warnings",
+        "Requests to install remote access software so a technician can control your device",
+        "Demands for immediate credit card or electronic payment to fix computer problems"
+      ],
+      "what_to_do": "Force close your web browser using Task Manager or restart your computer without calling any phone numbers displayed on the screen. Report tech support scams to the FTC at ReportFraud.ftc.gov.",
       "source_date": "2026-10",
       "active": true
     }
