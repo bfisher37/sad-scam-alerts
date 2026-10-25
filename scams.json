@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "scams": [
     {
       "id": "irs-payment-demand",
@@ -1835,6 +1835,90 @@
         "Demands for immediate credit card or electronic payment to fix computer problems"
       ],
       "what_to_do": "Force close your web browser using Task Manager or restart your computer without calling any phone numbers displayed on the screen. Report tech support scams to the FTC at ReportFraud.ftc.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "medicare-card-replacement-scheme",
+      "name": "Medicare Card Replacement Scheme",
+      "category": "Medicare",
+      "summary": "Scammers call seniors posing as Medicare officials and claim that new plastic or chip-embedded Medicare cards are required. They ask victims to verify personal details or pay a fee to receive the updated card.",
+      "red_flags": [
+        "Unsolicited call or message claiming to represent Medicare",
+        "Request for your Social Security or Medicare account number",
+        "Demands for a card processing fee or updated bank account details"
+      ],
+      "what_to_do": "Hang up immediately and contact Medicare directly at 1-800-MEDICARE to verify your account status. Report Medicare imposter fraud online at ReportFraud.ftc.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "social-security-account-suspension-scam",
+      "name": "Social Security Account Suspension Scam",
+      "category": "Social Security",
+      "summary": "Callers or text messages impersonate Social Security Administration officers claiming your SSN has been suspended due to illegal activity. They demand that you move your bank balances into cryptocurrency or gift cards to safeguard your money.",
+      "red_flags": [
+        "Threats that your Social Security number or benefit checks will be suspended",
+        "Demands to pay or transfer money via cryptocurrency, wire, or gift cards",
+        "Pressure to stay on the call and keep the conversation secret"
+      ],
+      "what_to_do": "Hang up and do not reply to suspicious texts. Report Social Security imposter scams directly to the Social Security Administration Inspector General at oig.ssa.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "ai-voice-cloning-family-emergency-scam",
+      "name": "AI Voice Cloning Family Emergency Scam",
+      "category": "Grandparent",
+      "summary": "Scammers use artificial intelligence to clone a grandchild's voice from public social media videos and place urgent calls to older relatives. They claim the relative is in jail or hospitalized and urgently needs money for bail or medical care.",
+      "red_flags": [
+        "Panicked call sounding like a relative claiming an immediate emergency",
+        "Urgent request for cash, wire transfers, or peer-to-peer payment apps",
+        "Instructions to keep the call secret from other family members"
+      ],
+      "what_to_do": "Hang up and call your family member directly using a trusted phone number to verify their location. Report emergency imposter scams at ReportFraud.ftc.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "pop-up-computer-security-support-scam",
+      "name": "Pop-Up Computer Security Support Scam",
+      "category": "Tech Support",
+      "summary": "Fake browser pop-ups display urgent warnings claiming a computer is infected with viruses or locked by law enforcement. The pop-up directs the user to call a toll-free number where fraudsters request remote device access and fees for bogus security software.",
+      "red_flags": [
+        "Unsolicited screen pop-up freezing the browser accompanied by loud audio alarms",
+        "Instructions to call a phone number to unlock your computer or prevent data loss",
+        "Requests to download remote desktop access software like AnyDesk or TeamViewer"
+      ],
+      "what_to_do": "Restart your computer or browser to clear the pop-up warning and do not dial the number shown. Report tech support scams to the Federal Trade Commission at ReportFraud.ftc.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "online-romance-crypto-investment-scam",
+      "name": "Online Romance Crypto Investment Scam",
+      "category": "Romance",
+      "summary": "Fraudsters build romantic relationships with retirees online before directing them toward fraudulent cryptocurrency investment platforms. Once funds are deposited into the fake platform, the scammer cuts off contact or demands extra fees to release the balance.",
+      "red_flags": [
+        "Online acquaintance quickly declares affection but refuses to meet in person or video chat",
+        "Conversations regularly pivot to high-yield financial or cryptocurrency trading opportunities",
+        "Pressure to deposit money into unfamiliar investment applications or websites"
+      ],
+      "what_to_do": "Stop all communications immediately and do not send additional funds. File a fraud report with the FBI Internet Crime Complaint Center at ic3.gov.",
+      "source_date": "2026-10",
+      "active": true
+    },
+    {
+      "id": "fake-irs-tax-debt-collection-scam",
+      "name": "Fake IRS Tax Debt Collection Scam",
+      "category": "IRS",
+      "summary": "Imposters posing as Internal Revenue Service agents contact victims asserting that back taxes are owed and immediate payment is required to avoid arrest or property liens. They demand immediate transfer using gift cards, wire transfers, or cryptocurrency.",
+      "red_flags": [
+        "Threats of immediate arrest, police action, or asset seizure over the phone",
+        "Demands for immediate payment using specific non-standard payment methods",
+        "Refusal to send official written billing notices in the mail"
+      ],
+      "what_to_do": "Hang up and check your tax status directly at IRS.gov. Report IRS impersonation attempts to the Treasury Inspector General for Tax Administration at tigta.gov.",
       "source_date": "2026-10",
       "active": true
     }
